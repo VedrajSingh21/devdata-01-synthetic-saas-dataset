@@ -6,8 +6,11 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)](LICENSE)
 [![Dataset Version](https://img.shields.io/badge/version-1.1.0-green.svg)](https://github.com/VedrajSingh21/devdata-01-synthetic-saas-dataset)
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Download%20Dataset-20BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/vedrajsingh/devdata-01-synthetic-saas-dataset)
 [![Data Integrity](https://img.shields.io/badge/referential_integrity-100%25-brightgreen.svg)](docs/DATA_QUALITY_REPORT.md)
 [![Total Records](https://img.shields.io/badge/records-19%2C800-orange.svg)](data/)
+
+📥 **[Download DevData-01 on Kaggle](https://www.kaggle.com/datasets/vedrajsingh/devdata-01-synthetic-saas-dataset)** | 💻 **[GitHub Repository](https://github.com/VedrajSingh21/devdata-01-synthetic-saas-dataset)**
 
 ---
 
@@ -266,9 +269,12 @@ devdata-01-synthetic-saas-dataset/
 
 ---
 
-## Kaggle Availability
+## Kaggle Dataset Availability
 
-A Kaggle dataset release for DevData-01 is currently **Coming Soon**. Once published, a direct Kaggle link will be added here.
+The official DevData-01 dataset is live on Kaggle:
+👉 **[https://www.kaggle.com/datasets/vedrajsingh/devdata-01-synthetic-saas-dataset](https://www.kaggle.com/datasets/vedrajsingh/devdata-01-synthetic-saas-dataset)**
+
+You can explore the files, query them using Kaggle Notebooks, or download the complete 6-CSV bundle directly from the Kaggle dataset page.
 
 ---
 

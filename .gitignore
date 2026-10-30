@@ -53,3 +53,6 @@ token.json
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
 
+
+# Kaggle packaging staging directory
+kaggle_upload/
