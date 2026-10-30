@@ -1,0 +1,801 @@
+ticket_id,organization_id,created_by_user_id,category,priority,status,created_at,resolved_at
+tkt_0001,org_0025,usr_00025,Billing & Payments,urgent,closed,2023-02-03T18:22:29Z,2023-02-03T22:24:29Z
+tkt_0002,org_0107,usr_00107,Billing & Payments,low,resolved,2023-07-23T13:11:28Z,2023-07-26T05:14:28Z
+tkt_0003,org_0080,usr_00080,Billing & Payments,low,resolved,2023-07-27T06:32:17Z,2023-07-28T14:31:17Z
+tkt_0004,org_0117,usr_00117,Account & Access,high,resolved,2023-08-07T18:57:13Z,2023-08-07T21:04:13Z
+tkt_0005,org_0109,usr_00109,Billing & Payments,low,resolved,2023-08-13T15:16:42Z,2023-08-14T15:54:42Z
+tkt_0006,org_0100,usr_00100,Account & Access,medium,closed,2023-08-21T05:23:31Z,2023-08-22T01:07:31Z
+tkt_0007,org_0169,usr_00169,Billing & Payments,medium,resolved,2023-09-17T22:50:46Z,2023-09-18T22:50:46Z
+tkt_0008,org_0119,usr_00119,Billing & Payments,medium,resolved,2023-10-14T19:56:44Z,2023-10-16T15:37:44Z
+tkt_0009,org_0097,usr_01423,Technical Bug,high,in_progress,2023-11-08T01:22:29Z,
+tkt_0010,org_0004,usr_00004,Feature Request,medium,resolved,2023-11-18T17:37:39Z,2023-11-20T04:01:39Z
+tkt_0011,org_0010,usr_01720,Billing & Payments,medium,resolved,2023-11-19T01:46:44Z,2023-11-20T11:41:44Z
+tkt_0012,org_0110,usr_01513,Billing & Payments,medium,resolved,2023-11-22T00:58:01Z,2023-11-23T20:44:01Z
+tkt_0013,org_0134,usr_00870,Feature Request,medium,open,2023-12-03T06:23:09Z,
+tkt_0014,org_0097,usr_00097,Account & Access,low,closed,2023-12-08T13:09:40Z,2023-12-09T10:10:40Z
+tkt_0015,org_0163,usr_00163,Feature Request,medium,resolved,2023-12-12T20:23:05Z,2023-12-13T12:37:05Z
+tkt_0016,org_0085,usr_01541,API & Integrations,medium,closed,2023-12-22T05:56:52Z,2023-12-24T01:11:52Z
+tkt_0017,org_0032,usr_01481,API & Integrations,high,open,2023-12-28T05:58:44Z,
+tkt_0018,org_0026,usr_01364,Account & Access,medium,closed,2023-12-29T20:29:49Z,2023-12-30T07:31:49Z
+tkt_0019,org_0037,usr_00980,API & Integrations,medium,in_progress,2024-01-03T21:44:15Z,
+tkt_0020,org_0016,usr_00016,Account & Access,medium,resolved,2024-01-03T22:38:21Z,2024-01-04T17:31:21Z
+tkt_0021,org_0042,usr_00735,Billing & Payments,medium,resolved,2024-01-17T02:16:34Z,2024-01-18T12:56:34Z
+tkt_0022,org_0101,usr_01458,Account & Access,low,closed,2024-01-24T12:31:32Z,2024-01-26T19:09:32Z
+tkt_0023,org_0112,usr_01771,Technical Bug,high,resolved,2024-01-24T12:58:28Z,2024-01-24T19:53:28Z
+tkt_0024,org_0128,usr_01187,Account & Access,high,resolved,2024-01-26T03:40:09Z,2024-01-26T16:53:09Z
+tkt_0025,org_0185,usr_00761,API & Integrations,high,resolved,2024-01-29T01:02:59Z,2024-01-29T06:36:59Z
+tkt_0026,org_0188,usr_01984,Technical Bug,medium,in_progress,2024-02-07T19:50:03Z,
+tkt_0027,org_0195,usr_00195,Technical Bug,urgent,resolved,2024-02-09T10:44:01Z,2024-02-09T15:10:01Z
+tkt_0028,org_0161,usr_00287,Account & Access,medium,in_progress,2024-02-11T19:55:33Z,
+tkt_0029,org_0163,usr_01750,Billing & Payments,high,resolved,2024-02-17T12:56:08Z,2024-02-17T22:43:08Z
+tkt_0030,org_0187,usr_01239,Technical Bug,medium,closed,2024-02-19T14:49:17Z,2024-02-21T07:27:17Z
+tkt_0031,org_0085,usr_00959,Account & Access,medium,resolved,2024-02-26T09:26:00Z,2024-02-28T04:18:00Z
+tkt_0032,org_0096,usr_00096,Billing & Payments,low,resolved,2024-02-27T07:28:37Z,2024-03-01T07:24:37Z
+tkt_0033,org_0193,usr_01675,Billing & Payments,high,closed,2024-03-04T03:01:22Z,2024-03-04T07:23:22Z
+tkt_0034,org_0147,usr_00598,API & Integrations,high,closed,2024-03-16T09:35:41Z,2024-03-17T05:38:41Z
+tkt_0035,org_0030,usr_00472,Account & Access,high,open,2024-03-18T19:19:09Z,
+tkt_0036,org_0098,usr_01497,Billing & Payments,medium,resolved,2024-03-24T01:11:32Z,2024-03-25T17:56:32Z
+tkt_0037,org_0011,usr_00011,Billing & Payments,medium,resolved,2024-03-24T14:56:01Z,2024-03-25T15:23:01Z
+tkt_0038,org_0008,usr_00008,Billing & Payments,medium,resolved,2024-03-25T06:52:47Z,2024-03-26T17:59:47Z
+tkt_0039,org_0101,usr_00101,Billing & Payments,low,resolved,2024-04-04T20:23:32Z,2024-04-07T16:29:32Z
+tkt_0040,org_0116,usr_00846,Account & Access,medium,in_progress,2024-04-09T22:27:57Z,
+tkt_0041,org_0199,usr_00504,Billing & Payments,medium,resolved,2024-04-11T17:23:57Z,2024-04-12T12:32:57Z
+tkt_0042,org_0044,usr_01662,API & Integrations,high,closed,2024-04-13T07:41:22Z,2024-04-13T12:37:22Z
+tkt_0043,org_0108,usr_01095,Billing & Payments,medium,resolved,2024-04-13T08:26:41Z,2024-04-13T20:25:41Z
+tkt_0044,org_0150,usr_01536,Account & Access,low,closed,2024-04-16T02:33:34Z,2024-04-17T06:07:34Z
+tkt_0045,org_0088,usr_00569,Technical Bug,medium,in_progress,2024-04-16T15:19:06Z,
+tkt_0046,org_0040,usr_00869,Billing & Payments,medium,open,2024-04-19T15:05:56Z,
+tkt_0047,org_0019,usr_01424,Technical Bug,medium,resolved,2024-04-19T15:38:23Z,2024-04-20T01:44:23Z
+tkt_0048,org_0166,usr_00166,Feature Request,low,in_progress,2024-04-22T04:11:09Z,
+tkt_0049,org_0200,usr_00200,Technical Bug,urgent,in_progress,2024-04-24T08:54:39Z,
+tkt_0050,org_0147,usr_00660,API & Integrations,low,in_progress,2024-04-27T10:36:24Z,
+tkt_0051,org_0197,usr_00197,Technical Bug,low,resolved,2024-04-29T15:15:26Z,2024-04-30T14:50:26Z
+tkt_0052,org_0018,usr_01821,Technical Bug,medium,closed,2024-04-29T23:27:19Z,2024-05-01T12:44:19Z
+tkt_0053,org_0156,usr_01913,Billing & Payments,medium,resolved,2024-05-07T08:44:56Z,2024-05-09T06:35:56Z
+tkt_0054,org_0100,usr_01914,API & Integrations,medium,closed,2024-05-09T01:59:05Z,2024-05-10T09:55:05Z
+tkt_0055,org_0008,usr_00549,API & Integrations,urgent,closed,2024-05-15T21:17:27Z,2024-05-16T00:22:27Z
+tkt_0056,org_0174,usr_00302,Billing & Payments,medium,resolved,2024-05-18T14:53:23Z,2024-05-19T10:16:23Z
+tkt_0057,org_0012,usr_01947,Billing & Payments,low,closed,2024-05-19T10:40:51Z,2024-05-20T01:17:51Z
+tkt_0058,org_0109,usr_01594,Feature Request,high,resolved,2024-05-21T11:24:10Z,2024-05-21T14:30:10Z
+tkt_0059,org_0183,usr_00273,Billing & Payments,medium,closed,2024-05-22T15:35:36Z,2024-05-23T22:22:36Z
+tkt_0060,org_0037,usr_00980,Account & Access,medium,closed,2024-06-02T13:04:33Z,2024-06-04T12:11:33Z
+tkt_0061,org_0129,usr_00129,Account & Access,high,resolved,2024-06-03T00:43:54Z,2024-06-03T19:00:54Z
+tkt_0062,org_0154,usr_01656,Feature Request,low,resolved,2024-06-04T20:34:35Z,2024-06-05T08:34:35Z
+tkt_0063,org_0063,usr_00063,Account & Access,high,closed,2024-06-07T16:36:20Z,2024-06-08T00:27:20Z
+tkt_0064,org_0092,usr_00092,Technical Bug,high,resolved,2024-06-09T11:12:01Z,2024-06-09T13:33:01Z
+tkt_0065,org_0144,usr_01316,Billing & Payments,high,resolved,2024-06-11T14:03:08Z,2024-06-11T18:10:08Z
+tkt_0066,org_0167,usr_01585,Feature Request,high,closed,2024-06-12T22:40:58Z,2024-06-13T00:53:58Z
+tkt_0067,org_0128,usr_00630,Account & Access,low,closed,2024-06-14T02:16:23Z,2024-06-15T18:31:23Z
+tkt_0068,org_0032,usr_01939,Billing & Payments,medium,resolved,2024-06-16T21:02:53Z,2024-06-18T07:58:53Z
+tkt_0069,org_0054,usr_00054,Billing & Payments,high,resolved,2024-06-17T01:41:37Z,2024-06-17T11:52:37Z
+tkt_0070,org_0196,usr_00196,Account & Access,low,resolved,2024-06-17T17:30:44Z,2024-06-20T06:04:44Z
+tkt_0071,org_0190,usr_00663,Technical Bug,high,open,2024-06-18T18:56:54Z,
+tkt_0072,org_0085,usr_00959,Billing & Payments,low,closed,2024-06-20T00:46:13Z,2024-06-23T00:11:13Z
+tkt_0073,org_0134,usr_00870,Technical Bug,medium,resolved,2024-06-20T19:45:39Z,2024-06-21T05:53:39Z
+tkt_0074,org_0002,usr_00002,API & Integrations,low,resolved,2024-06-29T08:00:46Z,2024-06-30T14:15:46Z
+tkt_0075,org_0095,usr_00095,Billing & Payments,medium,closed,2024-06-29T16:14:19Z,2024-07-01T03:09:19Z
+tkt_0076,org_0011,usr_00011,API & Integrations,medium,in_progress,2024-07-01T11:08:02Z,
+tkt_0077,org_0071,usr_00206,Account & Access,medium,resolved,2024-07-02T08:15:22Z,2024-07-03T20:51:22Z
+tkt_0078,org_0136,usr_01346,Technical Bug,low,open,2024-07-03T00:33:12Z,
+tkt_0079,org_0119,usr_00550,Billing & Payments,high,closed,2024-07-03T06:55:44Z,2024-07-03T10:04:44Z
+tkt_0080,org_0143,usr_00143,Feature Request,low,resolved,2024-07-05T06:03:01Z,2024-07-06T00:43:01Z
+tkt_0081,org_0005,usr_00282,Technical Bug,medium,closed,2024-07-10T18:36:57Z,2024-07-11T04:21:57Z
+tkt_0082,org_0144,usr_00144,Feature Request,high,resolved,2024-07-25T01:49:28Z,2024-07-25T23:42:28Z
+tkt_0083,org_0129,usr_00418,Technical Bug,high,resolved,2024-07-25T11:55:10Z,2024-07-25T16:49:10Z
+tkt_0084,org_0007,usr_01357,Account & Access,urgent,open,2024-07-25T23:07:36Z,
+tkt_0085,org_0142,usr_00142,Technical Bug,medium,resolved,2024-07-28T16:51:04Z,2024-07-30T01:06:04Z
+tkt_0086,org_0061,usr_01508,Technical Bug,medium,in_progress,2024-07-29T17:01:37Z,
+tkt_0087,org_0041,usr_00041,Technical Bug,low,closed,2024-07-31T14:44:36Z,2024-08-03T08:41:36Z
+tkt_0088,org_0190,usr_01199,API & Integrations,high,resolved,2024-08-03T03:55:58Z,2024-08-03T15:08:58Z
+tkt_0089,org_0168,usr_01923,Billing & Payments,low,resolved,2024-08-04T11:42:00Z,2024-08-07T01:38:00Z
+tkt_0090,org_0181,usr_00658,API & Integrations,low,resolved,2024-08-12T21:52:17Z,2024-08-14T01:49:17Z
+tkt_0091,org_0059,usr_00059,Technical Bug,high,resolved,2024-08-14T22:43:00Z,2024-08-15T17:51:00Z
+tkt_0092,org_0181,usr_01010,Feature Request,high,resolved,2024-08-20T11:11:56Z,2024-08-21T09:28:56Z
+tkt_0093,org_0033,usr_01507,Feature Request,urgent,closed,2024-08-20T18:47:31Z,2024-08-20T22:34:31Z
+tkt_0094,org_0101,usr_00101,Account & Access,urgent,resolved,2024-08-21T14:08:40Z,2024-08-21T18:57:40Z
+tkt_0095,org_0096,usr_00859,Feature Request,medium,open,2024-08-24T09:53:45Z,
+tkt_0096,org_0055,usr_01739,Technical Bug,medium,in_progress,2024-08-28T17:58:11Z,
+tkt_0097,org_0171,usr_01138,API & Integrations,high,closed,2024-08-31T22:35:15Z,2024-09-01T20:49:15Z
+tkt_0098,org_0076,usr_00409,Feature Request,medium,open,2024-09-02T13:07:15Z,
+tkt_0099,org_0047,usr_00963,Feature Request,high,resolved,2024-09-03T09:28:59Z,2024-09-03T21:31:59Z
+tkt_0100,org_0056,usr_00279,Technical Bug,high,resolved,2024-09-08T06:22:06Z,2024-09-08T21:22:06Z
+tkt_0101,org_0055,usr_01739,API & Integrations,medium,closed,2024-09-14T15:28:11Z,2024-09-15T04:21:11Z
+tkt_0102,org_0003,usr_01625,Billing & Payments,low,resolved,2024-09-15T05:49:44Z,2024-09-17T22:26:44Z
+tkt_0103,org_0151,usr_00151,API & Integrations,low,resolved,2024-09-18T00:06:24Z,2024-09-18T13:59:24Z
+tkt_0104,org_0096,usr_00859,API & Integrations,low,resolved,2024-09-18T07:56:40Z,2024-09-20T02:14:40Z
+tkt_0105,org_0139,usr_00866,Feature Request,low,resolved,2024-09-22T09:17:28Z,2024-09-23T13:13:28Z
+tkt_0106,org_0013,usr_01336,Billing & Payments,medium,resolved,2024-09-23T03:41:18Z,2024-09-23T21:41:18Z
+tkt_0107,org_0062,usr_01297,Account & Access,medium,in_progress,2024-09-23T22:42:58Z,
+tkt_0108,org_0192,usr_01629,Feature Request,urgent,closed,2024-09-25T03:54:57Z,2024-09-25T09:18:57Z
+tkt_0109,org_0141,usr_00883,API & Integrations,medium,resolved,2024-09-25T20:40:42Z,2024-09-27T05:03:42Z
+tkt_0110,org_0119,usr_00999,Technical Bug,medium,resolved,2024-09-26T06:28:57Z,2024-09-26T16:56:57Z
+tkt_0111,org_0148,usr_00473,Technical Bug,medium,resolved,2024-09-28T13:59:13Z,2024-09-30T10:51:13Z
+tkt_0112,org_0066,usr_00066,Feature Request,medium,resolved,2024-10-01T14:49:39Z,2024-10-02T21:42:39Z
+tkt_0113,org_0051,usr_00051,Billing & Payments,high,open,2024-10-02T17:42:40Z,
+tkt_0114,org_0141,usr_00908,Billing & Payments,medium,in_progress,2024-10-05T03:30:25Z,
+tkt_0115,org_0006,usr_00568,Account & Access,high,in_progress,2024-10-05T20:56:45Z,
+tkt_0116,org_0070,usr_00235,Account & Access,urgent,open,2024-10-06T11:22:35Z,
+tkt_0117,org_0116,usr_00254,API & Integrations,high,open,2024-10-06T12:54:02Z,
+tkt_0118,org_0128,usr_00128,Account & Access,low,resolved,2024-10-06T19:28:47Z,2024-10-08T12:05:47Z
+tkt_0119,org_0158,usr_00471,Feature Request,high,resolved,2024-10-08T03:37:52Z,2024-10-08T17:30:52Z
+tkt_0120,org_0122,usr_00931,Feature Request,medium,resolved,2024-10-08T18:58:16Z,2024-10-09T23:36:16Z
+tkt_0121,org_0169,usr_01045,Billing & Payments,medium,closed,2024-10-09T09:08:36Z,2024-10-10T12:18:36Z
+tkt_0122,org_0053,usr_00510,Feature Request,high,open,2024-10-09T12:41:55Z,
+tkt_0123,org_0182,usr_00573,Technical Bug,medium,closed,2024-10-09T18:15:18Z,2024-10-10T08:37:18Z
+tkt_0124,org_0023,usr_01650,Account & Access,medium,closed,2024-10-10T07:37:01Z,2024-10-11T18:28:01Z
+tkt_0125,org_0077,usr_00397,Account & Access,medium,closed,2024-10-10T18:17:27Z,2024-10-12T13:18:27Z
+tkt_0126,org_0085,usr_00085,API & Integrations,urgent,resolved,2024-10-11T14:14:55Z,2024-10-11T20:25:55Z
+tkt_0127,org_0026,usr_01043,Billing & Payments,low,in_progress,2024-10-12T04:59:47Z,
+tkt_0128,org_0189,usr_00752,Technical Bug,low,in_progress,2024-10-13T07:55:07Z,
+tkt_0129,org_0113,usr_00862,Billing & Payments,medium,resolved,2024-10-13T19:31:54Z,2024-10-14T10:51:54Z
+tkt_0130,org_0045,usr_00045,Feature Request,medium,resolved,2024-10-17T02:35:12Z,2024-10-17T19:23:12Z
+tkt_0131,org_0175,usr_01949,API & Integrations,low,resolved,2024-10-17T13:50:11Z,2024-10-20T11:24:11Z
+tkt_0132,org_0085,usr_01541,API & Integrations,high,closed,2024-10-17T14:13:47Z,2024-10-18T10:26:47Z
+tkt_0133,org_0123,usr_00123,Account & Access,medium,closed,2024-10-17T14:18:49Z,2024-10-17T23:44:49Z
+tkt_0134,org_0165,usr_01484,Feature Request,high,closed,2024-10-19T02:45:51Z,2024-10-19T19:16:51Z
+tkt_0135,org_0031,usr_01800,Account & Access,high,in_progress,2024-10-21T03:16:08Z,
+tkt_0136,org_0057,usr_01387,Account & Access,medium,resolved,2024-10-21T11:42:27Z,2024-10-21T18:07:27Z
+tkt_0137,org_0034,usr_00697,Account & Access,medium,closed,2024-10-22T00:01:32Z,2024-10-22T12:21:32Z
+tkt_0138,org_0047,usr_01366,Billing & Payments,medium,resolved,2024-10-24T00:33:10Z,2024-10-25T10:29:10Z
+tkt_0139,org_0099,usr_01553,Billing & Payments,medium,closed,2024-10-24T03:41:33Z,2024-10-25T11:54:33Z
+tkt_0140,org_0093,usr_00754,Account & Access,medium,closed,2024-10-24T21:20:46Z,2024-10-25T08:10:46Z
+tkt_0141,org_0091,usr_01619,Billing & Payments,high,resolved,2024-10-25T03:31:57Z,2024-10-26T02:45:57Z
+tkt_0142,org_0174,usr_01686,Technical Bug,low,resolved,2024-10-28T17:34:06Z,2024-10-29T13:23:06Z
+tkt_0143,org_0033,usr_01561,Account & Access,high,resolved,2024-10-29T07:02:23Z,2024-10-30T03:25:23Z
+tkt_0144,org_0142,usr_01707,Feature Request,low,closed,2024-10-30T12:56:40Z,2024-11-01T21:56:40Z
+tkt_0145,org_0130,usr_01475,Billing & Payments,medium,resolved,2024-10-30T21:21:24Z,2024-11-01T11:07:24Z
+tkt_0146,org_0140,usr_00140,Feature Request,high,closed,2024-10-31T00:09:12Z,2024-10-31T22:18:12Z
+tkt_0147,org_0140,usr_00707,Technical Bug,medium,in_progress,2024-10-31T05:09:22Z,
+tkt_0148,org_0002,usr_00536,Technical Bug,medium,resolved,2024-10-31T14:29:13Z,2024-11-02T00:15:13Z
+tkt_0149,org_0190,usr_00435,Billing & Payments,low,closed,2024-11-04T03:53:03Z,2024-11-06T16:48:03Z
+tkt_0150,org_0189,usr_00189,Account & Access,low,resolved,2024-11-07T08:37:10Z,2024-11-09T05:27:10Z
+tkt_0151,org_0004,usr_00004,Account & Access,high,resolved,2024-11-09T21:16:23Z,2024-11-10T17:00:23Z
+tkt_0152,org_0022,usr_00775,Feature Request,medium,closed,2024-11-13T19:49:28Z,2024-11-14T21:12:28Z
+tkt_0153,org_0178,usr_01816,Feature Request,medium,open,2024-11-16T02:11:12Z,
+tkt_0154,org_0112,usr_00112,Feature Request,medium,in_progress,2024-11-17T09:32:23Z,
+tkt_0155,org_0130,usr_00693,Account & Access,medium,closed,2024-11-17T12:09:54Z,2024-11-17T20:18:54Z
+tkt_0156,org_0130,usr_00693,Account & Access,low,resolved,2024-11-17T15:34:14Z,2024-11-20T08:15:14Z
+tkt_0157,org_0166,usr_00737,Billing & Payments,medium,closed,2024-11-18T02:46:39Z,2024-11-19T14:54:39Z
+tkt_0158,org_0046,usr_01827,Feature Request,low,closed,2024-11-19T13:26:03Z,2024-11-20T16:04:03Z
+tkt_0159,org_0105,usr_00639,Feature Request,low,in_progress,2024-11-20T12:17:04Z,
+tkt_0160,org_0074,usr_00788,Feature Request,low,open,2024-11-20T15:16:21Z,
+tkt_0161,org_0193,usr_00193,API & Integrations,high,open,2024-11-21T12:08:50Z,
+tkt_0162,org_0037,usr_00940,Feature Request,medium,closed,2024-11-24T05:27:43Z,2024-11-25T03:22:43Z
+tkt_0163,org_0003,usr_00003,Feature Request,high,open,2024-11-25T15:08:27Z,
+tkt_0164,org_0120,usr_01284,Technical Bug,urgent,closed,2024-11-27T10:52:28Z,2024-11-27T18:46:28Z
+tkt_0165,org_0166,usr_01121,Technical Bug,medium,resolved,2024-11-28T02:35:30Z,2024-11-28T19:45:30Z
+tkt_0166,org_0100,usr_00561,Billing & Payments,urgent,open,2024-11-28T03:39:50Z,
+tkt_0167,org_0080,usr_00080,Account & Access,low,resolved,2024-11-28T17:53:04Z,2024-11-30T16:36:04Z
+tkt_0168,org_0125,usr_00758,Feature Request,low,resolved,2024-12-01T05:29:31Z,2024-12-02T07:14:31Z
+tkt_0169,org_0088,usr_01477,API & Integrations,medium,resolved,2024-12-02T21:07:17Z,2024-12-03T18:50:17Z
+tkt_0170,org_0177,usr_00777,Technical Bug,medium,resolved,2024-12-03T06:58:42Z,2024-12-05T05:31:42Z
+tkt_0171,org_0166,usr_00366,API & Integrations,low,resolved,2024-12-03T14:20:56Z,2024-12-04T18:11:56Z
+tkt_0172,org_0159,usr_00681,Feature Request,high,resolved,2024-12-04T21:00:50Z,2024-12-05T06:54:50Z
+tkt_0173,org_0103,usr_00244,Account & Access,high,closed,2024-12-06T11:20:57Z,2024-12-06T16:36:57Z
+tkt_0174,org_0004,usr_00906,API & Integrations,medium,resolved,2024-12-07T01:09:18Z,2024-12-07T21:41:18Z
+tkt_0175,org_0196,usr_01074,Account & Access,urgent,resolved,2024-12-08T10:58:20Z,2024-12-08T15:25:20Z
+tkt_0176,org_0057,usr_00057,Feature Request,medium,resolved,2024-12-12T04:33:33Z,2024-12-12T19:59:33Z
+tkt_0177,org_0168,usr_00748,Account & Access,low,resolved,2024-12-12T06:30:52Z,2024-12-13T08:36:52Z
+tkt_0178,org_0003,usr_01625,Feature Request,medium,in_progress,2024-12-13T21:31:45Z,
+tkt_0179,org_0097,usr_01193,API & Integrations,high,resolved,2024-12-14T02:46:59Z,2024-12-14T13:10:59Z
+tkt_0180,org_0003,usr_01573,API & Integrations,medium,resolved,2024-12-14T20:52:05Z,2024-12-15T03:22:05Z
+tkt_0181,org_0084,usr_01665,API & Integrations,medium,resolved,2024-12-17T14:49:10Z,2024-12-19T14:15:10Z
+tkt_0182,org_0088,usr_00088,Billing & Payments,low,resolved,2024-12-17T19:51:52Z,2024-12-19T14:57:52Z
+tkt_0183,org_0059,usr_01090,Billing & Payments,low,resolved,2024-12-17T20:37:25Z,2024-12-19T03:55:25Z
+tkt_0184,org_0122,usr_00591,Feature Request,high,resolved,2024-12-24T13:54:22Z,2024-12-25T13:52:22Z
+tkt_0185,org_0197,usr_01493,Technical Bug,urgent,resolved,2024-12-25T20:35:27Z,2024-12-26T02:23:27Z
+tkt_0186,org_0154,usr_01419,API & Integrations,medium,resolved,2024-12-27T14:26:06Z,2024-12-27T23:52:06Z
+tkt_0187,org_0050,usr_01712,Feature Request,high,resolved,2024-12-29T07:06:16Z,2024-12-29T23:21:16Z
+tkt_0188,org_0029,usr_00344,API & Integrations,low,resolved,2024-12-29T14:19:02Z,2025-01-01T01:15:02Z
+tkt_0189,org_0107,usr_00920,API & Integrations,medium,closed,2024-12-31T19:53:48Z,2025-01-01T18:03:48Z
+tkt_0190,org_0183,usr_01242,Technical Bug,urgent,closed,2025-01-01T03:41:57Z,2025-01-01T07:58:57Z
+tkt_0191,org_0134,usr_01538,Feature Request,low,closed,2025-01-01T07:08:23Z,2025-01-03T21:39:23Z
+tkt_0192,org_0152,usr_01089,Feature Request,medium,resolved,2025-01-01T19:12:38Z,2025-01-02T11:31:38Z
+tkt_0193,org_0060,usr_01303,Billing & Payments,low,resolved,2025-01-04T13:51:06Z,2025-01-07T09:18:06Z
+tkt_0194,org_0161,usr_01680,Feature Request,high,resolved,2025-01-05T00:17:14Z,2025-01-05T02:41:14Z
+tkt_0195,org_0167,usr_00899,Account & Access,low,open,2025-01-05T10:25:07Z,
+tkt_0196,org_0001,usr_01530,Technical Bug,medium,resolved,2025-01-06T19:33:26Z,2025-01-08T16:41:26Z
+tkt_0197,org_0127,usr_00330,API & Integrations,urgent,closed,2025-01-10T05:46:07Z,2025-01-10T07:24:07Z
+tkt_0198,org_0166,usr_01121,API & Integrations,high,open,2025-01-10T16:21:53Z,
+tkt_0199,org_0043,usr_00043,Feature Request,low,in_progress,2025-01-11T18:50:57Z,
+tkt_0200,org_0198,usr_00524,Billing & Payments,medium,resolved,2025-01-14T13:17:40Z,2025-01-15T23:22:40Z
+tkt_0201,org_0051,usr_00821,API & Integrations,medium,closed,2025-01-15T04:28:21Z,2025-01-15T22:57:21Z
+tkt_0202,org_0030,usr_01071,Account & Access,urgent,resolved,2025-01-15T23:08:17Z,2025-01-16T00:34:17Z
+tkt_0203,org_0164,usr_00454,Feature Request,medium,resolved,2025-01-17T11:14:43Z,2025-01-18T11:59:43Z
+tkt_0204,org_0005,usr_00005,Billing & Payments,low,resolved,2025-01-17T12:24:56Z,2025-01-18T13:43:56Z
+tkt_0205,org_0003,usr_01573,Account & Access,low,in_progress,2025-01-19T19:55:34Z,
+tkt_0206,org_0055,usr_01739,Account & Access,low,resolved,2025-01-20T12:50:28Z,2025-01-21T03:29:28Z
+tkt_0207,org_0060,usr_00209,Account & Access,medium,resolved,2025-01-20T18:48:37Z,2025-01-22T15:04:37Z
+tkt_0208,org_0116,usr_00846,Feature Request,urgent,closed,2025-01-21T17:03:53Z,2025-01-21T19:59:53Z
+tkt_0209,org_0152,usr_01089,API & Integrations,medium,resolved,2025-01-21T17:49:17Z,2025-01-23T04:38:17Z
+tkt_0210,org_0009,usr_00009,Technical Bug,high,closed,2025-01-21T18:00:35Z,2025-01-21T23:28:35Z
+tkt_0211,org_0046,usr_01061,Account & Access,low,open,2025-01-22T12:16:03Z,
+tkt_0212,org_0190,usr_01002,Technical Bug,medium,resolved,2025-01-22T22:58:01Z,2025-01-24T18:09:01Z
+tkt_0213,org_0127,usr_01831,Billing & Payments,low,resolved,2025-01-25T00:27:37Z,2025-01-26T07:06:37Z
+tkt_0214,org_0026,usr_00205,Account & Access,medium,closed,2025-01-26T10:11:47Z,2025-01-28T08:06:47Z
+tkt_0215,org_0137,usr_01904,Account & Access,high,resolved,2025-01-27T03:42:40Z,2025-01-27T22:37:40Z
+tkt_0216,org_0175,usr_01392,Billing & Payments,medium,resolved,2025-01-27T04:14:19Z,2025-01-28T10:45:19Z
+tkt_0217,org_0072,usr_01663,Account & Access,urgent,resolved,2025-01-27T17:02:23Z,2025-01-27T19:14:23Z
+tkt_0218,org_0071,usr_01048,Technical Bug,low,resolved,2025-01-28T14:46:00Z,2025-01-29T11:33:00Z
+tkt_0219,org_0175,usr_00175,Billing & Payments,low,open,2025-01-29T15:11:24Z,
+tkt_0220,org_0155,usr_00961,Account & Access,high,resolved,2025-01-29T21:57:53Z,2025-01-30T06:34:53Z
+tkt_0221,org_0186,usr_01652,API & Integrations,low,resolved,2025-01-30T02:18:07Z,2025-02-01T00:54:07Z
+tkt_0222,org_0031,usr_01800,API & Integrations,high,resolved,2025-01-30T13:27:23Z,2025-01-30T23:48:23Z
+tkt_0223,org_0111,usr_01039,Account & Access,medium,closed,2025-01-31T03:58:18Z,2025-01-31T12:26:18Z
+tkt_0224,org_0023,usr_00790,Billing & Payments,high,resolved,2025-01-31T16:54:25Z,2025-02-01T15:57:25Z
+tkt_0225,org_0114,usr_01162,Billing & Payments,medium,closed,2025-01-31T17:57:53Z,2025-02-02T02:11:53Z
+tkt_0226,org_0055,usr_01173,Account & Access,medium,resolved,2025-02-01T16:44:34Z,2025-02-02T17:24:34Z
+tkt_0227,org_0109,usr_01281,Technical Bug,medium,resolved,2025-02-03T07:13:03Z,2025-02-03T14:23:03Z
+tkt_0228,org_0070,usr_01708,Feature Request,high,open,2025-02-03T22:46:09Z,
+tkt_0229,org_0037,usr_01373,Technical Bug,medium,closed,2025-02-04T05:58:51Z,2025-02-05T02:26:51Z
+tkt_0230,org_0005,usr_00005,Feature Request,medium,open,2025-02-04T19:23:35Z,
+tkt_0231,org_0152,usr_01581,Account & Access,high,open,2025-02-05T03:51:25Z,
+tkt_0232,org_0018,usr_01188,Account & Access,high,closed,2025-02-05T17:23:38Z,2025-02-06T00:15:38Z
+tkt_0233,org_0171,usr_01355,Feature Request,low,resolved,2025-02-06T01:07:02Z,2025-02-07T16:30:02Z
+tkt_0234,org_0119,usr_00636,API & Integrations,urgent,closed,2025-02-09T03:26:28Z,2025-02-09T07:55:28Z
+tkt_0235,org_0163,usr_01023,API & Integrations,high,resolved,2025-02-09T10:05:09Z,2025-02-10T01:42:09Z
+tkt_0236,org_0016,usr_01868,API & Integrations,medium,closed,2025-02-10T17:35:04Z,2025-02-11T18:32:04Z
+tkt_0237,org_0106,usr_01383,API & Integrations,high,resolved,2025-02-13T01:00:55Z,2025-02-13T15:47:55Z
+tkt_0238,org_0131,usr_00913,API & Integrations,medium,closed,2025-02-14T07:28:53Z,2025-02-14T19:29:53Z
+tkt_0239,org_0191,usr_00191,Technical Bug,medium,resolved,2025-02-14T11:03:26Z,2025-02-14T22:29:26Z
+tkt_0240,org_0191,usr_01227,Technical Bug,high,closed,2025-02-16T23:14:07Z,2025-02-17T04:01:07Z
+tkt_0241,org_0161,usr_00974,API & Integrations,medium,closed,2025-02-20T06:58:59Z,2025-02-21T07:02:59Z
+tkt_0242,org_0087,usr_01968,Feature Request,medium,closed,2025-02-21T03:27:37Z,2025-02-22T20:23:37Z
+tkt_0243,org_0118,usr_00809,Technical Bug,low,resolved,2025-02-21T16:08:43Z,2025-02-23T09:27:43Z
+tkt_0244,org_0199,usr_00405,Account & Access,medium,resolved,2025-02-24T13:07:25Z,2025-02-25T23:11:25Z
+tkt_0245,org_0083,usr_01275,API & Integrations,low,resolved,2025-02-25T11:24:24Z,2025-02-26T23:18:24Z
+tkt_0246,org_0109,usr_01281,Account & Access,low,resolved,2025-02-25T12:05:44Z,2025-02-27T11:22:44Z
+tkt_0247,org_0086,usr_00537,Billing & Payments,medium,in_progress,2025-02-26T02:25:18Z,
+tkt_0248,org_0192,usr_01629,Feature Request,urgent,resolved,2025-02-27T22:07:54Z,2025-02-28T01:13:54Z
+tkt_0249,org_0082,usr_01131,Technical Bug,high,resolved,2025-02-27T22:37:18Z,2025-02-28T11:40:18Z
+tkt_0250,org_0041,usr_00041,Billing & Payments,high,closed,2025-03-01T22:58:57Z,2025-03-02T17:52:57Z
+tkt_0251,org_0154,usr_01251,Technical Bug,low,resolved,2025-03-02T13:23:01Z,2025-03-05T09:36:01Z
+tkt_0252,org_0190,usr_01833,Technical Bug,medium,open,2025-03-03T08:42:06Z,
+tkt_0253,org_0153,usr_00443,Feature Request,urgent,resolved,2025-03-03T23:30:20Z,2025-03-04T03:37:20Z
+tkt_0254,org_0113,usr_00113,API & Integrations,urgent,resolved,2025-03-04T12:39:36Z,2025-03-04T13:56:36Z
+tkt_0255,org_0192,usr_01629,Feature Request,medium,resolved,2025-03-04T18:27:14Z,2025-03-05T04:35:14Z
+tkt_0256,org_0185,usr_00185,Technical Bug,medium,closed,2025-03-05T09:54:04Z,2025-03-06T23:17:04Z
+tkt_0257,org_0053,usr_00987,API & Integrations,high,closed,2025-03-05T14:56:02Z,2025-03-06T07:32:02Z
+tkt_0258,org_0044,usr_01662,Billing & Payments,high,in_progress,2025-03-06T13:46:02Z,
+tkt_0259,org_0192,usr_01629,Account & Access,medium,closed,2025-03-07T00:45:43Z,2025-03-07T23:07:43Z
+tkt_0260,org_0147,usr_01893,Account & Access,medium,open,2025-03-08T00:42:45Z,
+tkt_0261,org_0124,usr_01352,API & Integrations,urgent,in_progress,2025-03-08T14:07:23Z,
+tkt_0262,org_0060,usr_00994,Billing & Payments,low,resolved,2025-03-08T18:27:33Z,2025-03-11T11:48:33Z
+tkt_0263,org_0076,usr_01698,Account & Access,medium,open,2025-03-08T20:34:05Z,
+tkt_0264,org_0152,usr_01581,Account & Access,high,resolved,2025-03-08T22:51:41Z,2025-03-09T10:06:41Z
+tkt_0265,org_0018,usr_01188,API & Integrations,low,closed,2025-03-09T04:00:47Z,2025-03-11T12:08:47Z
+tkt_0266,org_0174,usr_00236,Technical Bug,medium,in_progress,2025-03-12T01:27:14Z,
+tkt_0267,org_0137,usr_01024,Billing & Payments,low,resolved,2025-03-14T05:09:17Z,2025-03-15T09:46:17Z
+tkt_0268,org_0101,usr_00895,API & Integrations,medium,closed,2025-03-14T15:09:58Z,2025-03-15T23:29:58Z
+tkt_0269,org_0108,usr_01025,Billing & Payments,medium,resolved,2025-03-15T02:31:23Z,2025-03-16T19:40:23Z
+tkt_0270,org_0115,usr_01305,API & Integrations,high,resolved,2025-03-15T02:40:08Z,2025-03-15T14:48:08Z
+tkt_0271,org_0075,usr_01120,Technical Bug,low,resolved,2025-03-16T02:13:07Z,2025-03-17T07:54:07Z
+tkt_0272,org_0056,usr_00279,API & Integrations,medium,closed,2025-03-16T07:42:43Z,2025-03-17T18:58:43Z
+tkt_0273,org_0026,usr_00026,API & Integrations,medium,closed,2025-03-17T04:56:41Z,2025-03-17T14:40:41Z
+tkt_0274,org_0050,usr_01712,Account & Access,medium,resolved,2025-03-17T06:46:24Z,2025-03-19T04:47:24Z
+tkt_0275,org_0006,usr_00583,Feature Request,high,closed,2025-03-17T08:51:26Z,2025-03-17T22:01:26Z
+tkt_0276,org_0169,usr_01015,Technical Bug,high,in_progress,2025-03-18T16:53:25Z,
+tkt_0277,org_0183,usr_01242,Account & Access,urgent,closed,2025-03-19T01:54:13Z,2025-03-19T04:18:13Z
+tkt_0278,org_0084,usr_00084,API & Integrations,medium,resolved,2025-03-19T05:57:49Z,2025-03-19T17:04:49Z
+tkt_0279,org_0161,usr_00161,Account & Access,low,in_progress,2025-03-19T22:19:50Z,
+tkt_0280,org_0139,usr_00595,API & Integrations,high,resolved,2025-03-19T23:54:01Z,2025-03-20T18:47:01Z
+tkt_0281,org_0124,usr_01655,Feature Request,low,closed,2025-03-20T18:33:13Z,2025-03-22T03:48:13Z
+tkt_0282,org_0021,usr_01535,Feature Request,high,resolved,2025-03-21T05:27:59Z,2025-03-21T16:21:59Z
+tkt_0283,org_0025,usr_00684,Billing & Payments,low,closed,2025-03-21T17:52:49Z,2025-03-22T14:51:49Z
+tkt_0284,org_0125,usr_01539,Billing & Payments,high,closed,2025-03-22T13:53:00Z,2025-03-23T06:42:00Z
+tkt_0285,org_0068,usr_00320,Account & Access,medium,closed,2025-03-23T16:00:16Z,2025-03-24T17:50:16Z
+tkt_0286,org_0178,usr_01526,Account & Access,high,resolved,2025-03-24T02:46:53Z,2025-03-24T17:04:53Z
+tkt_0287,org_0142,usr_01514,Account & Access,high,closed,2025-03-24T04:16:38Z,2025-03-24T20:53:38Z
+tkt_0288,org_0167,usr_01729,Technical Bug,high,resolved,2025-03-24T20:02:34Z,2025-03-25T09:47:34Z
+tkt_0289,org_0146,usr_01918,API & Integrations,high,open,2025-03-24T22:22:08Z,
+tkt_0290,org_0177,usr_00777,Account & Access,medium,closed,2025-03-25T14:04:37Z,2025-03-26T10:04:37Z
+tkt_0291,org_0058,usr_01313,Technical Bug,low,open,2025-03-27T00:43:43Z,
+tkt_0292,org_0196,usr_00414,API & Integrations,high,resolved,2025-03-27T01:48:06Z,2025-03-27T09:18:06Z
+tkt_0293,org_0150,usr_01536,API & Integrations,low,in_progress,2025-03-27T03:06:52Z,
+tkt_0294,org_0176,usr_00929,Billing & Payments,medium,resolved,2025-03-27T05:16:10Z,2025-03-28T13:39:10Z
+tkt_0295,org_0174,usr_00236,Billing & Payments,medium,closed,2025-03-27T11:52:34Z,2025-03-29T06:39:34Z
+tkt_0296,org_0027,usr_00027,Account & Access,urgent,resolved,2025-03-28T09:24:34Z,2025-03-28T13:13:34Z
+tkt_0297,org_0081,usr_01222,Technical Bug,low,resolved,2025-03-28T18:26:17Z,2025-03-31T08:10:17Z
+tkt_0298,org_0166,usr_01121,Billing & Payments,medium,resolved,2025-03-29T16:33:56Z,2025-03-31T02:00:56Z
+tkt_0299,org_0030,usr_01071,Account & Access,low,resolved,2025-03-29T17:50:20Z,2025-03-31T17:29:20Z
+tkt_0300,org_0167,usr_01826,Billing & Payments,medium,resolved,2025-03-30T03:33:18Z,2025-03-31T09:18:18Z
+tkt_0301,org_0006,usr_00583,Account & Access,high,resolved,2025-03-31T13:21:30Z,2025-03-31T19:36:30Z
+tkt_0302,org_0091,usr_01610,API & Integrations,medium,resolved,2025-03-31T15:51:37Z,2025-04-02T04:23:37Z
+tkt_0303,org_0048,usr_01823,Technical Bug,high,closed,2025-04-01T08:27:21Z,2025-04-01T11:35:21Z
+tkt_0304,org_0184,usr_00357,Feature Request,high,resolved,2025-04-02T07:18:08Z,2025-04-02T10:56:08Z
+tkt_0305,org_0053,usr_00390,Account & Access,low,resolved,2025-04-03T12:57:30Z,2025-04-05T04:36:30Z
+tkt_0306,org_0109,usr_01281,Billing & Payments,medium,resolved,2025-04-03T19:57:43Z,2025-04-04T19:31:43Z
+tkt_0307,org_0198,usr_00524,Billing & Payments,high,resolved,2025-04-04T06:20:08Z,2025-04-04T17:32:08Z
+tkt_0308,org_0056,usr_00849,Billing & Payments,high,closed,2025-04-04T20:07:20Z,2025-04-05T12:00:20Z
+tkt_0309,org_0090,usr_00230,Billing & Payments,low,resolved,2025-04-05T08:13:52Z,2025-04-07T15:36:52Z
+tkt_0310,org_0138,usr_00138,Technical Bug,low,in_progress,2025-04-05T19:02:52Z,
+tkt_0311,org_0014,usr_01264,Account & Access,medium,closed,2025-04-06T02:18:22Z,2025-04-06T14:45:22Z
+tkt_0312,org_0194,usr_00688,Account & Access,high,resolved,2025-04-07T14:16:54Z,2025-04-07T22:47:54Z
+tkt_0313,org_0145,usr_00426,Billing & Payments,urgent,resolved,2025-04-09T01:20:55Z,2025-04-09T04:09:55Z
+tkt_0314,org_0178,usr_01816,Account & Access,medium,closed,2025-04-09T05:32:21Z,2025-04-10T06:39:21Z
+tkt_0315,org_0094,usr_00812,Account & Access,medium,in_progress,2025-04-09T05:54:42Z,
+tkt_0316,org_0163,usr_01380,Billing & Payments,medium,resolved,2025-04-09T09:03:30Z,2025-04-10T23:21:30Z
+tkt_0317,org_0030,usr_00448,Feature Request,medium,in_progress,2025-04-09T11:08:48Z,
+tkt_0318,org_0154,usr_01251,Technical Bug,medium,closed,2025-04-10T04:25:46Z,2025-04-10T21:24:46Z
+tkt_0319,org_0112,usr_01037,API & Integrations,medium,resolved,2025-04-10T15:53:01Z,2025-04-12T05:27:01Z
+tkt_0320,org_0153,usr_00341,API & Integrations,medium,closed,2025-04-10T16:43:41Z,2025-04-11T16:36:41Z
+tkt_0321,org_0121,usr_00637,Account & Access,medium,resolved,2025-04-11T00:08:45Z,2025-04-12T12:39:45Z
+tkt_0322,org_0016,usr_01929,API & Integrations,high,closed,2025-04-11T02:46:48Z,2025-04-11T08:57:48Z
+tkt_0323,org_0100,usr_01064,Account & Access,urgent,resolved,2025-04-14T22:56:08Z,2025-04-15T05:19:08Z
+tkt_0324,org_0138,usr_00714,API & Integrations,medium,resolved,2025-04-15T21:31:19Z,2025-04-17T07:21:19Z
+tkt_0325,org_0051,usr_01799,Technical Bug,low,resolved,2025-04-15T22:56:59Z,2025-04-18T02:53:59Z
+tkt_0326,org_0019,usr_00434,Billing & Payments,high,resolved,2025-04-16T07:48:36Z,2025-04-17T01:00:36Z
+tkt_0327,org_0036,usr_00036,Account & Access,low,closed,2025-04-16T14:07:34Z,2025-04-17T20:43:34Z
+tkt_0328,org_0166,usr_00557,Billing & Payments,medium,closed,2025-04-16T15:31:33Z,2025-04-18T10:11:33Z
+tkt_0329,org_0033,usr_00334,Account & Access,medium,open,2025-04-17T06:58:57Z,
+tkt_0330,org_0101,usr_00458,Account & Access,low,resolved,2025-04-17T23:49:11Z,2025-04-19T14:25:11Z
+tkt_0331,org_0010,usr_01720,Account & Access,medium,closed,2025-04-18T03:54:20Z,2025-04-18T16:27:20Z
+tkt_0332,org_0049,usr_01630,API & Integrations,low,closed,2025-04-18T17:59:28Z,2025-04-21T13:23:28Z
+tkt_0333,org_0069,usr_00441,Technical Bug,low,closed,2025-04-18T20:15:00Z,2025-04-20T22:47:00Z
+tkt_0334,org_0117,usr_00491,Account & Access,medium,closed,2025-04-19T13:14:37Z,2025-04-21T08:25:37Z
+tkt_0335,org_0031,usr_01490,Billing & Payments,medium,open,2025-04-19T17:01:51Z,
+tkt_0336,org_0147,usr_01798,Technical Bug,low,resolved,2025-04-20T07:12:29Z,2025-04-22T03:25:29Z
+tkt_0337,org_0181,usr_00781,Feature Request,low,in_progress,2025-04-20T17:07:38Z,
+tkt_0338,org_0135,usr_00419,Feature Request,low,closed,2025-04-20T17:22:29Z,2025-04-22T11:37:29Z
+tkt_0339,org_0131,usr_01186,Feature Request,medium,resolved,2025-04-21T11:19:18Z,2025-04-22T09:02:18Z
+tkt_0340,org_0173,usr_00699,Technical Bug,medium,resolved,2025-04-21T13:55:15Z,2025-04-22T14:13:15Z
+tkt_0341,org_0078,usr_01372,Account & Access,medium,in_progress,2025-04-21T20:25:59Z,
+tkt_0342,org_0119,usr_00636,Technical Bug,medium,closed,2025-04-22T11:54:36Z,2025-04-24T00:16:36Z
+tkt_0343,org_0024,usr_00263,API & Integrations,high,closed,2025-04-22T19:36:15Z,2025-04-23T01:33:15Z
+tkt_0344,org_0069,usr_01537,Account & Access,low,resolved,2025-04-23T08:50:18Z,2025-04-25T06:40:18Z
+tkt_0345,org_0061,usr_01874,Feature Request,high,resolved,2025-04-23T10:40:10Z,2025-04-24T05:12:10Z
+tkt_0346,org_0023,usr_01246,API & Integrations,urgent,resolved,2025-04-23T18:52:56Z,2025-04-23T21:08:56Z
+tkt_0347,org_0027,usr_00755,Account & Access,medium,open,2025-04-26T03:57:15Z,
+tkt_0348,org_0193,usr_01436,Billing & Payments,low,closed,2025-04-27T19:48:46Z,2025-04-29T22:26:46Z
+tkt_0349,org_0054,usr_01664,Feature Request,medium,resolved,2025-04-28T23:10:18Z,2025-04-30T17:29:18Z
+tkt_0350,org_0163,usr_01344,Feature Request,medium,resolved,2025-04-29T23:59:37Z,2025-05-01T06:42:37Z
+tkt_0351,org_0161,usr_01106,Technical Bug,medium,closed,2025-04-30T14:22:09Z,2025-05-02T03:51:09Z
+tkt_0352,org_0048,usr_00811,Technical Bug,medium,resolved,2025-04-30T17:20:32Z,2025-05-02T05:50:32Z
+tkt_0353,org_0157,usr_01081,Feature Request,urgent,resolved,2025-04-30T19:26:47Z,2025-04-30T23:14:47Z
+tkt_0354,org_0109,usr_00109,Technical Bug,low,closed,2025-04-30T22:48:47Z,2025-05-01T21:15:47Z
+tkt_0355,org_0168,usr_01819,Technical Bug,medium,resolved,2025-05-01T01:19:40Z,2025-05-01T12:31:40Z
+tkt_0356,org_0045,usr_00361,Technical Bug,medium,in_progress,2025-05-01T01:30:43Z,
+tkt_0357,org_0191,usr_00855,Account & Access,low,in_progress,2025-05-01T03:31:24Z,
+tkt_0358,org_0101,usr_01470,Feature Request,high,resolved,2025-05-01T07:01:56Z,2025-05-02T06:24:56Z
+tkt_0359,org_0169,usr_01045,Feature Request,medium,resolved,2025-05-03T07:51:13Z,2025-05-03T22:43:13Z
+tkt_0360,org_0123,usr_00123,Billing & Payments,high,closed,2025-05-04T00:42:45Z,2025-05-04T04:05:45Z
+tkt_0361,org_0161,usr_00287,Account & Access,low,open,2025-05-04T23:14:13Z,
+tkt_0362,org_0134,usr_01982,Feature Request,medium,resolved,2025-05-05T19:16:14Z,2025-05-06T20:28:14Z
+tkt_0363,org_0102,usr_00102,Feature Request,high,in_progress,2025-05-08T04:52:13Z,
+tkt_0364,org_0127,usr_01474,Billing & Payments,low,in_progress,2025-05-08T22:59:31Z,
+tkt_0365,org_0149,usr_01157,Billing & Payments,high,resolved,2025-05-09T14:15:06Z,2025-05-10T04:22:06Z
+tkt_0366,org_0055,usr_00747,API & Integrations,medium,resolved,2025-05-09T22:23:27Z,2025-05-11T06:43:27Z
+tkt_0367,org_0169,usr_01015,API & Integrations,low,closed,2025-05-10T14:57:29Z,2025-05-12T21:15:29Z
+tkt_0368,org_0145,usr_00534,Account & Access,high,resolved,2025-05-11T05:37:56Z,2025-05-12T00:47:56Z
+tkt_0369,org_0063,usr_01427,Technical Bug,medium,closed,2025-05-11T14:52:22Z,2025-05-13T10:33:22Z
+tkt_0370,org_0016,usr_00224,Billing & Payments,medium,closed,2025-05-11T15:30:52Z,2025-05-12T09:41:52Z
+tkt_0371,org_0178,usr_01861,Account & Access,medium,resolved,2025-05-12T02:18:17Z,2025-05-12T10:41:17Z
+tkt_0372,org_0107,usr_00107,Billing & Payments,low,resolved,2025-05-13T16:22:25Z,2025-05-15T12:59:25Z
+tkt_0373,org_0070,usr_01708,Account & Access,medium,resolved,2025-05-17T16:09:10Z,2025-05-19T01:35:10Z
+tkt_0374,org_0028,usr_01292,Billing & Payments,low,resolved,2025-05-18T01:10:35Z,2025-05-18T21:30:35Z
+tkt_0375,org_0130,usr_01369,Account & Access,medium,resolved,2025-05-18T09:47:44Z,2025-05-19T07:38:44Z
+tkt_0376,org_0046,usr_00565,Billing & Payments,medium,open,2025-05-18T19:10:30Z,
+tkt_0377,org_0092,usr_01899,API & Integrations,low,open,2025-05-19T13:53:27Z,
+tkt_0378,org_0035,usr_00743,Technical Bug,medium,resolved,2025-05-19T22:22:34Z,2025-05-21T19:45:34Z
+tkt_0379,org_0191,usr_00855,API & Integrations,low,resolved,2025-05-20T10:33:11Z,2025-05-21T10:10:11Z
+tkt_0380,org_0177,usr_00659,Technical Bug,low,closed,2025-05-20T16:41:57Z,2025-05-22T03:08:57Z
+tkt_0381,org_0080,usr_00832,Billing & Payments,high,resolved,2025-05-20T16:55:08Z,2025-05-21T08:59:08Z
+tkt_0382,org_0151,usr_01362,Feature Request,medium,closed,2025-05-22T11:09:51Z,2025-05-22T21:59:51Z
+tkt_0383,org_0156,usr_00337,API & Integrations,low,resolved,2025-05-23T08:19:31Z,2025-05-24T21:25:31Z
+tkt_0384,org_0176,usr_01285,API & Integrations,low,closed,2025-05-23T10:47:20Z,2025-05-24T11:34:20Z
+tkt_0385,org_0186,usr_00882,Account & Access,urgent,resolved,2025-05-23T15:17:45Z,2025-05-23T19:32:45Z
+tkt_0386,org_0060,usr_00465,Feature Request,high,in_progress,2025-05-25T05:35:36Z,
+tkt_0387,org_0067,usr_01128,Technical Bug,low,resolved,2025-05-25T16:32:18Z,2025-05-28T08:02:18Z
+tkt_0388,org_0114,usr_00436,API & Integrations,high,resolved,2025-05-25T22:32:52Z,2025-05-26T21:25:52Z
+tkt_0389,org_0048,usr_01823,Feature Request,urgent,closed,2025-05-28T05:10:21Z,2025-05-28T07:23:21Z
+tkt_0390,org_0169,usr_01360,Account & Access,medium,resolved,2025-05-29T04:23:36Z,2025-05-29T21:41:36Z
+tkt_0391,org_0121,usr_01646,Billing & Payments,low,closed,2025-05-29T05:11:33Z,2025-05-30T09:32:33Z
+tkt_0392,org_0090,usr_01170,Account & Access,low,open,2025-05-29T20:58:24Z,
+tkt_0393,org_0150,usr_01269,Technical Bug,high,resolved,2025-05-30T06:50:58Z,2025-05-30T10:59:58Z
+tkt_0394,org_0174,usr_00236,Billing & Payments,medium,closed,2025-05-31T11:00:02Z,2025-06-02T08:46:02Z
+tkt_0395,org_0137,usr_01904,Account & Access,high,resolved,2025-06-02T08:13:32Z,2025-06-02T16:56:32Z
+tkt_0396,org_0170,usr_00730,Account & Access,medium,resolved,2025-06-03T17:04:28Z,2025-06-04T16:52:28Z
+tkt_0397,org_0124,usr_00442,API & Integrations,medium,resolved,2025-06-04T01:12:27Z,2025-06-05T12:34:27Z
+tkt_0398,org_0106,usr_01408,Account & Access,medium,open,2025-06-04T13:41:17Z,
+tkt_0399,org_0082,usr_01204,Billing & Payments,low,resolved,2025-06-04T21:19:01Z,2025-06-07T15:30:01Z
+tkt_0400,org_0061,usr_01439,Technical Bug,high,closed,2025-06-05T20:49:49Z,2025-06-06T13:58:49Z
+tkt_0401,org_0155,usr_01046,Feature Request,medium,in_progress,2025-06-07T19:10:55Z,
+tkt_0402,org_0029,usr_01842,Technical Bug,low,open,2025-06-07T19:54:23Z,
+tkt_0403,org_0054,usr_01210,API & Integrations,medium,closed,2025-06-08T09:40:44Z,2025-06-08T20:18:44Z
+tkt_0404,org_0011,usr_00709,Billing & Payments,high,resolved,2025-06-09T07:20:19Z,2025-06-09T12:29:19Z
+tkt_0405,org_0187,usr_00187,Technical Bug,low,closed,2025-06-09T15:37:22Z,2025-06-10T22:24:22Z
+tkt_0406,org_0079,usr_01429,Account & Access,medium,resolved,2025-06-10T09:55:49Z,2025-06-12T07:52:49Z
+tkt_0407,org_0016,usr_00224,Feature Request,high,resolved,2025-06-10T22:42:17Z,2025-06-11T19:39:17Z
+tkt_0408,org_0113,usr_01306,Account & Access,high,closed,2025-06-11T02:54:10Z,2025-06-12T00:16:10Z
+tkt_0409,org_0091,usr_00973,Billing & Payments,high,resolved,2025-06-11T09:09:06Z,2025-06-12T06:43:06Z
+tkt_0410,org_0012,usr_01289,Technical Bug,medium,resolved,2025-06-11T22:00:50Z,2025-06-12T17:19:50Z
+tkt_0411,org_0044,usr_01876,API & Integrations,low,resolved,2025-06-11T23:46:08Z,2025-06-14T13:15:08Z
+tkt_0412,org_0049,usr_01752,Billing & Payments,medium,closed,2025-06-12T06:18:10Z,2025-06-13T23:04:10Z
+tkt_0413,org_0068,usr_01197,API & Integrations,medium,resolved,2025-06-12T18:30:43Z,2025-06-14T02:54:43Z
+tkt_0414,org_0046,usr_00565,Account & Access,low,closed,2025-06-13T00:48:19Z,2025-06-13T18:45:19Z
+tkt_0415,org_0109,usr_01281,API & Integrations,high,resolved,2025-06-13T04:36:32Z,2025-06-13T12:56:32Z
+tkt_0416,org_0093,usr_00856,Feature Request,urgent,closed,2025-06-13T07:34:43Z,2025-06-13T10:37:43Z
+tkt_0417,org_0087,usr_00087,Account & Access,high,resolved,2025-06-13T12:56:45Z,2025-06-13T19:08:45Z
+tkt_0418,org_0110,usr_01641,Technical Bug,low,resolved,2025-06-14T01:10:10Z,2025-06-15T10:19:10Z
+tkt_0419,org_0108,usr_00108,Account & Access,low,in_progress,2025-06-14T03:54:26Z,
+tkt_0420,org_0153,usr_01338,API & Integrations,low,closed,2025-06-14T12:28:14Z,2025-06-16T12:26:14Z
+tkt_0421,org_0116,usr_01243,Billing & Payments,medium,resolved,2025-06-15T05:59:08Z,2025-06-17T00:52:08Z
+tkt_0422,org_0011,usr_00709,Account & Access,medium,in_progress,2025-06-17T13:40:35Z,
+tkt_0423,org_0141,usr_00958,Account & Access,medium,resolved,2025-06-18T09:28:02Z,2025-06-19T13:30:02Z
+tkt_0424,org_0033,usr_00334,Technical Bug,medium,resolved,2025-06-18T14:49:41Z,2025-06-20T07:14:41Z
+tkt_0425,org_0055,usr_01173,Feature Request,medium,resolved,2025-06-19T06:45:37Z,2025-06-20T03:41:37Z
+tkt_0426,org_0123,usr_01643,Billing & Payments,medium,resolved,2025-06-19T18:37:17Z,2025-06-21T16:53:17Z
+tkt_0427,org_0069,usr_00420,Billing & Payments,low,in_progress,2025-06-20T14:06:17Z,
+tkt_0428,org_0178,usr_01657,Billing & Payments,medium,closed,2025-06-21T12:56:47Z,2025-06-22T14:35:47Z
+tkt_0429,org_0058,usr_00645,Billing & Payments,low,closed,2025-06-21T16:11:50Z,2025-06-22T12:40:50Z
+tkt_0430,org_0002,usr_01764,Account & Access,medium,closed,2025-06-23T13:43:32Z,2025-06-25T06:18:32Z
+tkt_0431,org_0179,usr_01016,Technical Bug,high,resolved,2025-06-25T06:14:47Z,2025-06-25T21:06:47Z
+tkt_0432,org_0094,usr_00812,API & Integrations,medium,closed,2025-06-25T08:15:04Z,2025-06-25T17:19:04Z
+tkt_0433,org_0137,usr_01694,API & Integrations,urgent,closed,2025-06-26T17:47:54Z,2025-06-27T01:11:54Z
+tkt_0434,org_0157,usr_00844,Technical Bug,medium,resolved,2025-06-28T03:09:27Z,2025-06-28T22:19:27Z
+tkt_0435,org_0167,usr_00445,Feature Request,low,resolved,2025-06-28T05:07:32Z,2025-06-29T23:49:32Z
+tkt_0436,org_0122,usr_00951,Billing & Payments,low,resolved,2025-06-28T20:18:59Z,2025-06-29T08:31:59Z
+tkt_0437,org_0097,usr_01779,Billing & Payments,medium,open,2025-06-28T21:32:32Z,
+tkt_0438,org_0074,usr_00074,Technical Bug,low,resolved,2025-06-28T22:38:38Z,2025-06-30T02:34:38Z
+tkt_0439,org_0075,usr_01572,Billing & Payments,medium,closed,2025-06-29T01:33:16Z,2025-06-29T18:08:16Z
+tkt_0440,org_0088,usr_01744,Billing & Payments,medium,resolved,2025-06-29T06:58:56Z,2025-06-30T11:30:56Z
+tkt_0441,org_0045,usr_01892,Account & Access,medium,resolved,2025-06-29T15:18:58Z,2025-06-30T23:33:58Z
+tkt_0442,org_0075,usr_00242,Billing & Payments,low,resolved,2025-06-29T23:50:23Z,2025-07-02T23:48:23Z
+tkt_0443,org_0013,usr_01336,Billing & Payments,low,resolved,2025-06-30T04:34:47Z,2025-07-02T17:26:47Z
+tkt_0444,org_0002,usr_01616,Technical Bug,low,closed,2025-07-01T00:14:50Z,2025-07-02T21:05:50Z
+tkt_0445,org_0060,usr_00465,Feature Request,medium,resolved,2025-07-02T02:12:39Z,2025-07-03T09:35:39Z
+tkt_0446,org_0095,usr_01981,API & Integrations,high,resolved,2025-07-02T15:18:17Z,2025-07-02T19:08:17Z
+tkt_0447,org_0037,usr_01373,Feature Request,low,resolved,2025-07-03T03:41:32Z,2025-07-04T10:26:32Z
+tkt_0448,org_0038,usr_01092,API & Integrations,urgent,resolved,2025-07-03T20:09:16Z,2025-07-03T20:59:16Z
+tkt_0449,org_0132,usr_00368,API & Integrations,high,resolved,2025-07-04T12:19:39Z,2025-07-05T04:32:39Z
+tkt_0450,org_0173,usr_01116,Billing & Payments,medium,closed,2025-07-04T22:04:42Z,2025-07-05T05:51:42Z
+tkt_0451,org_0050,usr_01957,Technical Bug,low,closed,2025-07-05T10:25:12Z,2025-07-06T07:09:12Z
+tkt_0452,org_0144,usr_01417,Account & Access,medium,closed,2025-07-06T05:47:28Z,2025-07-06T19:51:28Z
+tkt_0453,org_0195,usr_00698,API & Integrations,low,resolved,2025-07-06T08:30:20Z,2025-07-08T19:06:20Z
+tkt_0454,org_0006,usr_00650,Feature Request,low,resolved,2025-07-06T13:26:24Z,2025-07-07T19:49:24Z
+tkt_0455,org_0064,usr_01253,Account & Access,medium,resolved,2025-07-06T18:38:47Z,2025-07-08T17:43:47Z
+tkt_0456,org_0003,usr_01448,Technical Bug,medium,closed,2025-07-07T01:57:16Z,2025-07-08T05:56:16Z
+tkt_0457,org_0099,usr_01930,Billing & Payments,medium,resolved,2025-07-07T14:05:39Z,2025-07-07T22:34:39Z
+tkt_0458,org_0095,usr_01543,Technical Bug,urgent,closed,2025-07-07T19:01:43Z,2025-07-08T00:10:43Z
+tkt_0459,org_0124,usr_00461,API & Integrations,low,resolved,2025-07-08T02:00:15Z,2025-07-08T20:30:15Z
+tkt_0460,org_0067,usr_00067,Feature Request,low,closed,2025-07-09T07:50:23Z,2025-07-11T14:37:23Z
+tkt_0461,org_0088,usr_01744,Account & Access,high,closed,2025-07-10T06:57:53Z,2025-07-10T17:51:53Z
+tkt_0462,org_0014,usr_01571,Technical Bug,low,resolved,2025-07-10T07:09:32Z,2025-07-11T13:58:32Z
+tkt_0463,org_0094,usr_00813,Account & Access,high,resolved,2025-07-10T10:10:57Z,2025-07-11T03:11:57Z
+tkt_0464,org_0155,usr_01466,Technical Bug,urgent,resolved,2025-07-10T11:58:15Z,2025-07-10T18:11:15Z
+tkt_0465,org_0174,usr_01482,Billing & Payments,high,resolved,2025-07-10T12:47:38Z,2025-07-10T19:35:38Z
+tkt_0466,org_0036,usr_00508,Technical Bug,medium,closed,2025-07-11T03:58:02Z,2025-07-11T21:11:02Z
+tkt_0467,org_0192,usr_01026,Technical Bug,medium,resolved,2025-07-11T08:10:13Z,2025-07-12T02:28:13Z
+tkt_0468,org_0196,usr_01074,Billing & Payments,low,open,2025-07-11T09:54:20Z,
+tkt_0469,org_0097,usr_00909,Billing & Payments,urgent,open,2025-07-11T13:14:55Z,
+tkt_0470,org_0010,usr_00010,Feature Request,low,in_progress,2025-07-11T15:59:26Z,
+tkt_0471,org_0075,usr_00478,Billing & Payments,medium,resolved,2025-07-12T00:06:24Z,2025-07-13T11:56:24Z
+tkt_0472,org_0065,usr_01376,Billing & Payments,urgent,closed,2025-07-12T14:07:21Z,2025-07-12T18:54:21Z
+tkt_0473,org_0081,usr_01156,Technical Bug,medium,open,2025-07-12T17:43:03Z,
+tkt_0474,org_0181,usr_01700,Feature Request,medium,closed,2025-07-13T07:40:27Z,2025-07-14T21:54:27Z
+tkt_0475,org_0061,usr_01696,Technical Bug,medium,in_progress,2025-07-13T08:32:33Z,
+tkt_0476,org_0164,usr_01993,Technical Bug,high,resolved,2025-07-14T20:01:34Z,2025-07-15T11:43:34Z
+tkt_0477,org_0108,usr_01025,Billing & Payments,medium,in_progress,2025-07-15T06:05:57Z,
+tkt_0478,org_0175,usr_01949,API & Integrations,medium,resolved,2025-07-16T07:04:23Z,2025-07-17T00:42:23Z
+tkt_0479,org_0184,usr_00184,Feature Request,urgent,resolved,2025-07-17T06:13:57Z,2025-07-17T10:34:57Z
+tkt_0480,org_0015,usr_00562,Account & Access,urgent,in_progress,2025-07-17T06:22:28Z,
+tkt_0481,org_0037,usr_00394,Feature Request,high,resolved,2025-07-17T10:53:34Z,2025-07-18T00:25:34Z
+tkt_0482,org_0135,usr_01437,Feature Request,medium,resolved,2025-07-17T11:44:12Z,2025-07-18T15:24:12Z
+tkt_0483,org_0070,usr_01741,Account & Access,low,closed,2025-07-17T13:27:24Z,2025-07-18T03:41:24Z
+tkt_0484,org_0130,usr_01369,Technical Bug,medium,resolved,2025-07-17T16:36:36Z,2025-07-18T22:50:36Z
+tkt_0485,org_0146,usr_01796,Technical Bug,medium,closed,2025-07-17T18:17:03Z,2025-07-18T23:31:03Z
+tkt_0486,org_0160,usr_00767,Technical Bug,high,resolved,2025-07-19T07:22:17Z,2025-07-20T07:12:17Z
+tkt_0487,org_0124,usr_01309,Account & Access,medium,resolved,2025-07-19T12:07:58Z,2025-07-20T23:14:58Z
+tkt_0488,org_0130,usr_01171,Billing & Payments,medium,in_progress,2025-07-19T20:22:30Z,
+tkt_0489,org_0073,usr_01125,Account & Access,high,resolved,2025-07-20T07:23:47Z,2025-07-20T13:49:47Z
+tkt_0490,org_0048,usr_01413,Feature Request,high,open,2025-07-21T06:48:38Z,
+tkt_0491,org_0097,usr_01405,Account & Access,urgent,resolved,2025-07-21T20:16:29Z,2025-07-22T02:01:29Z
+tkt_0492,org_0137,usr_01935,Feature Request,low,resolved,2025-07-22T02:24:58Z,2025-07-22T18:19:58Z
+tkt_0493,org_0013,usr_01853,Account & Access,high,resolved,2025-07-23T00:07:19Z,2025-07-23T03:00:19Z
+tkt_0494,org_0194,usr_01075,Account & Access,medium,closed,2025-07-23T11:05:44Z,2025-07-24T00:27:44Z
+tkt_0495,org_0053,usr_00987,Feature Request,medium,closed,2025-07-24T00:48:27Z,2025-07-24T22:04:27Z
+tkt_0496,org_0173,usr_01749,Account & Access,medium,resolved,2025-07-24T20:50:34Z,2025-07-26T11:01:34Z
+tkt_0497,org_0114,usr_01579,Billing & Payments,medium,closed,2025-07-25T02:09:51Z,2025-07-26T08:21:51Z
+tkt_0498,org_0065,usr_00286,Feature Request,low,resolved,2025-07-25T03:58:51Z,2025-07-26T19:42:51Z
+tkt_0499,org_0101,usr_00458,Account & Access,low,resolved,2025-07-25T12:57:59Z,2025-07-27T08:19:59Z
+tkt_0500,org_0029,usr_01842,Technical Bug,low,resolved,2025-07-25T18:32:19Z,2025-07-26T16:40:19Z
+tkt_0501,org_0113,usr_01306,API & Integrations,low,closed,2025-07-26T15:11:08Z,2025-07-28T12:49:08Z
+tkt_0502,org_0142,usr_01286,Feature Request,medium,resolved,2025-07-27T06:26:25Z,2025-07-28T23:32:25Z
+tkt_0503,org_0176,usr_00176,Technical Bug,medium,closed,2025-07-27T10:54:54Z,2025-07-28T03:23:54Z
+tkt_0504,org_0076,usr_01698,Billing & Payments,high,closed,2025-07-27T12:31:52Z,2025-07-28T11:13:52Z
+tkt_0505,org_0120,usr_01881,Technical Bug,medium,closed,2025-07-28T12:39:08Z,2025-07-29T14:26:08Z
+tkt_0506,org_0023,usr_01650,Technical Bug,low,open,2025-07-29T09:01:23Z,
+tkt_0507,org_0179,usr_01597,Feature Request,urgent,closed,2025-07-29T10:13:36Z,2025-07-29T11:50:36Z
+tkt_0508,org_0055,usr_01291,Billing & Payments,high,resolved,2025-07-29T22:22:39Z,2025-07-30T15:15:39Z
+tkt_0509,org_0176,usr_00929,Feature Request,high,resolved,2025-07-30T22:55:54Z,2025-07-31T21:59:54Z
+tkt_0510,org_0111,usr_01211,Billing & Payments,medium,resolved,2025-07-31T01:39:15Z,2025-07-31T15:55:15Z
+tkt_0511,org_0117,usr_00380,Account & Access,medium,open,2025-07-31T02:37:31Z,
+tkt_0512,org_0035,usr_00743,Account & Access,medium,resolved,2025-08-01T06:21:38Z,2025-08-03T00:22:38Z
+tkt_0513,org_0117,usr_00380,Account & Access,medium,resolved,2025-08-01T09:45:53Z,2025-08-01T16:30:53Z
+tkt_0514,org_0072,usr_01663,Billing & Payments,low,resolved,2025-08-01T10:51:32Z,2025-08-02T09:40:32Z
+tkt_0515,org_0017,usr_00933,Feature Request,low,resolved,2025-08-02T07:18:59Z,2025-08-04T01:26:59Z
+tkt_0516,org_0023,usr_01650,Billing & Payments,medium,resolved,2025-08-02T22:30:27Z,2025-08-04T10:52:27Z
+tkt_0517,org_0053,usr_01925,Billing & Payments,medium,resolved,2025-08-02T23:47:22Z,2025-08-03T22:05:22Z
+tkt_0518,org_0008,usr_01888,Feature Request,low,resolved,2025-08-03T01:08:14Z,2025-08-04T05:29:14Z
+tkt_0519,org_0136,usr_01346,Billing & Payments,low,closed,2025-08-03T18:46:02Z,2025-08-04T21:20:02Z
+tkt_0520,org_0027,usr_00755,Billing & Payments,high,closed,2025-08-04T14:05:48Z,2025-08-05T04:02:48Z
+tkt_0521,org_0024,usr_01388,Account & Access,high,resolved,2025-08-05T06:59:17Z,2025-08-05T22:36:17Z
+tkt_0522,org_0018,usr_01418,Account & Access,high,resolved,2025-08-05T21:57:47Z,2025-08-06T00:16:47Z
+tkt_0523,org_0021,usr_00376,Technical Bug,low,resolved,2025-08-07T04:36:23Z,2025-08-09T16:27:23Z
+tkt_0524,org_0151,usr_01343,Technical Bug,low,resolved,2025-08-07T16:52:38Z,2025-08-08T05:24:38Z
+tkt_0525,org_0108,usr_01350,Billing & Payments,medium,resolved,2025-08-09T04:40:12Z,2025-08-09T22:49:12Z
+tkt_0526,org_0068,usr_00068,API & Integrations,low,open,2025-08-09T06:39:48Z,
+tkt_0527,org_0059,usr_00059,API & Integrations,urgent,in_progress,2025-08-09T23:08:20Z,
+tkt_0528,org_0125,usr_01539,API & Integrations,medium,resolved,2025-08-10T16:02:50Z,2025-08-12T12:01:50Z
+tkt_0529,org_0130,usr_00693,API & Integrations,medium,resolved,2025-08-11T10:22:00Z,2025-08-13T00:45:00Z
+tkt_0530,org_0061,usr_01696,API & Integrations,medium,resolved,2025-08-11T17:35:16Z,2025-08-13T02:52:16Z
+tkt_0531,org_0135,usr_00135,API & Integrations,high,resolved,2025-08-13T00:58:25Z,2025-08-13T20:25:25Z
+tkt_0532,org_0106,usr_00680,Technical Bug,medium,resolved,2025-08-13T01:16:24Z,2025-08-14T19:39:24Z
+tkt_0533,org_0053,usr_00987,Account & Access,medium,closed,2025-08-13T20:18:38Z,2025-08-14T10:17:38Z
+tkt_0534,org_0191,usr_01965,Billing & Payments,medium,resolved,2025-08-14T14:27:46Z,2025-08-15T22:29:46Z
+tkt_0535,org_0085,usr_00370,Billing & Payments,urgent,closed,2025-08-14T17:19:04Z,2025-08-15T01:15:04Z
+tkt_0536,org_0058,usr_00703,API & Integrations,medium,in_progress,2025-08-14T18:36:05Z,
+tkt_0537,org_0094,usr_00813,Technical Bug,high,closed,2025-08-14T19:40:29Z,2025-08-15T09:09:29Z
+tkt_0538,org_0165,usr_00519,API & Integrations,medium,resolved,2025-08-15T04:07:29Z,2025-08-15T17:17:29Z
+tkt_0539,org_0130,usr_00256,Feature Request,medium,closed,2025-08-15T12:38:08Z,2025-08-16T23:56:08Z
+tkt_0540,org_0047,usr_00880,Billing & Payments,low,resolved,2025-08-16T00:40:03Z,2025-08-17T17:50:03Z
+tkt_0541,org_0179,usr_01016,Account & Access,medium,in_progress,2025-08-16T08:25:51Z,
+tkt_0542,org_0076,usr_01433,Technical Bug,medium,closed,2025-08-16T13:17:25Z,2025-08-17T06:09:25Z
+tkt_0543,org_0082,usr_00393,Account & Access,urgent,resolved,2025-08-16T15:10:25Z,2025-08-16T17:32:25Z
+tkt_0544,org_0046,usr_00248,Feature Request,low,resolved,2025-08-16T15:16:35Z,2025-08-17T04:15:35Z
+tkt_0545,org_0046,usr_00248,Billing & Payments,urgent,in_progress,2025-08-16T17:33:28Z,
+tkt_0546,org_0108,usr_01350,Billing & Payments,high,open,2025-08-17T01:54:14Z,
+tkt_0547,org_0126,usr_00306,API & Integrations,medium,resolved,2025-08-17T15:02:31Z,2025-08-18T09:48:31Z
+tkt_0548,org_0198,usr_01524,Feature Request,medium,resolved,2025-08-18T05:21:16Z,2025-08-19T03:18:16Z
+tkt_0549,org_0155,usr_01920,Feature Request,urgent,resolved,2025-08-18T11:18:29Z,2025-08-18T15:44:29Z
+tkt_0550,org_0073,usr_01086,Account & Access,high,open,2025-08-18T13:35:38Z,
+tkt_0551,org_0048,usr_01823,Billing & Payments,high,closed,2025-08-18T13:39:35Z,2025-08-19T08:11:35Z
+tkt_0552,org_0020,usr_01658,Technical Bug,medium,resolved,2025-08-19T15:13:15Z,2025-08-20T23:07:15Z
+tkt_0553,org_0132,usr_00795,API & Integrations,low,closed,2025-08-19T22:15:13Z,2025-08-22T03:31:13Z
+tkt_0554,org_0139,usr_01057,API & Integrations,high,in_progress,2025-08-20T00:43:23Z,
+tkt_0555,org_0115,usr_00593,Billing & Payments,medium,resolved,2025-08-20T07:55:15Z,2025-08-21T06:47:15Z
+tkt_0556,org_0094,usr_00813,Account & Access,high,in_progress,2025-08-20T15:49:08Z,
+tkt_0557,org_0168,usr_01944,Billing & Payments,low,resolved,2025-08-20T16:40:05Z,2025-08-23T08:07:05Z
+tkt_0558,org_0090,usr_00230,API & Integrations,medium,resolved,2025-08-21T01:47:31Z,2025-08-21T12:15:31Z
+tkt_0559,org_0115,usr_00782,Technical Bug,high,resolved,2025-08-21T03:19:48Z,2025-08-21T21:25:48Z
+tkt_0560,org_0034,usr_00034,Billing & Payments,urgent,resolved,2025-08-21T05:29:40Z,2025-08-21T07:28:40Z
+tkt_0561,org_0004,usr_00906,Account & Access,high,resolved,2025-08-22T01:24:27Z,2025-08-22T19:04:27Z
+tkt_0562,org_0013,usr_00897,Billing & Payments,low,in_progress,2025-08-23T15:48:34Z,
+tkt_0563,org_0103,usr_01059,Feature Request,medium,resolved,2025-08-23T20:32:39Z,2025-08-24T20:09:39Z
+tkt_0564,org_0017,usr_00933,Feature Request,high,resolved,2025-08-24T04:49:50Z,2025-08-24T08:57:50Z
+tkt_0565,org_0105,usr_00105,Feature Request,medium,closed,2025-08-24T08:16:34Z,2025-08-26T03:21:34Z
+tkt_0566,org_0023,usr_01650,Account & Access,low,closed,2025-08-25T07:58:25Z,2025-08-28T03:36:25Z
+tkt_0567,org_0190,usr_00435,Billing & Payments,high,resolved,2025-08-26T22:46:30Z,2025-08-27T20:45:30Z
+tkt_0568,org_0103,usr_01659,Technical Bug,low,resolved,2025-08-26T23:00:16Z,2025-08-28T03:05:16Z
+tkt_0569,org_0105,usr_01252,Billing & Payments,urgent,resolved,2025-08-27T05:21:40Z,2025-08-27T11:20:40Z
+tkt_0570,org_0071,usr_01565,API & Integrations,high,resolved,2025-08-27T19:03:01Z,2025-08-27T23:45:01Z
+tkt_0571,org_0119,usr_01802,Account & Access,urgent,resolved,2025-08-28T19:58:53Z,2025-08-28T23:37:53Z
+tkt_0572,org_0081,usr_01540,API & Integrations,medium,open,2025-08-29T08:42:50Z,
+tkt_0573,org_0177,usr_01107,Feature Request,medium,in_progress,2025-08-30T05:03:23Z,
+tkt_0574,org_0068,usr_01732,Billing & Payments,medium,resolved,2025-08-30T08:40:49Z,2025-09-01T07:14:49Z
+tkt_0575,org_0072,usr_00072,API & Integrations,low,resolved,2025-08-31T03:46:29Z,2025-09-02T19:11:29Z
+tkt_0576,org_0074,usr_01014,API & Integrations,low,resolved,2025-08-31T09:02:41Z,2025-09-01T08:40:41Z
+tkt_0577,org_0097,usr_00385,Account & Access,medium,resolved,2025-08-31T15:43:55Z,2025-09-01T06:49:55Z
+tkt_0578,org_0082,usr_00543,Account & Access,high,resolved,2025-08-31T17:21:23Z,2025-09-01T00:57:23Z
+tkt_0579,org_0187,usr_00460,Feature Request,high,resolved,2025-09-01T14:06:25Z,2025-09-02T05:00:25Z
+tkt_0580,org_0094,usr_01647,API & Integrations,high,resolved,2025-09-01T15:52:11Z,2025-09-02T04:46:11Z
+tkt_0581,org_0095,usr_00270,Technical Bug,medium,resolved,2025-09-01T22:40:35Z,2025-09-03T14:50:35Z
+tkt_0582,org_0083,usr_00083,Feature Request,low,in_progress,2025-09-02T23:22:03Z,
+tkt_0583,org_0155,usr_00547,API & Integrations,high,resolved,2025-09-03T04:45:28Z,2025-09-03T09:14:28Z
+tkt_0584,org_0043,usr_00523,Account & Access,medium,open,2025-09-03T07:17:05Z,
+tkt_0585,org_0124,usr_01551,Account & Access,medium,closed,2025-09-03T09:47:15Z,2025-09-04T13:09:15Z
+tkt_0586,org_0113,usr_01306,Billing & Payments,medium,in_progress,2025-09-03T11:32:39Z,
+tkt_0587,org_0106,usr_01217,API & Integrations,medium,resolved,2025-09-03T15:42:10Z,2025-09-05T02:48:10Z
+tkt_0588,org_0200,usr_01578,Feature Request,low,resolved,2025-09-04T02:22:26Z,2025-09-05T22:16:26Z
+tkt_0589,org_0078,usr_01294,Account & Access,medium,open,2025-09-04T16:06:21Z,
+tkt_0590,org_0068,usr_01732,Feature Request,medium,resolved,2025-09-04T17:04:30Z,2025-09-05T01:05:30Z
+tkt_0591,org_0066,usr_01588,API & Integrations,medium,open,2025-09-04T18:51:50Z,
+tkt_0592,org_0136,usr_00512,Account & Access,low,resolved,2025-09-06T06:05:41Z,2025-09-07T02:47:41Z
+tkt_0593,org_0152,usr_01952,API & Integrations,medium,resolved,2025-09-06T09:14:37Z,2025-09-06T19:56:37Z
+tkt_0594,org_0019,usr_01969,Account & Access,medium,in_progress,2025-09-07T01:24:08Z,
+tkt_0595,org_0087,usr_00087,Account & Access,medium,closed,2025-09-08T05:45:44Z,2025-09-09T04:57:44Z
+tkt_0596,org_0084,usr_00084,Account & Access,medium,resolved,2025-09-08T18:17:33Z,2025-09-09T17:11:33Z
+tkt_0597,org_0041,usr_00327,API & Integrations,low,resolved,2025-09-08T20:09:58Z,2025-09-09T20:34:58Z
+tkt_0598,org_0170,usr_00664,API & Integrations,high,in_progress,2025-09-09T06:17:22Z,
+tkt_0599,org_0031,usr_01872,Billing & Payments,medium,closed,2025-09-09T09:21:03Z,2025-09-09T19:08:03Z
+tkt_0600,org_0150,usr_00631,Technical Bug,urgent,resolved,2025-09-09T13:09:15Z,2025-09-09T13:59:15Z
+tkt_0601,org_0132,usr_00795,Feature Request,medium,in_progress,2025-09-09T16:29:58Z,
+tkt_0602,org_0124,usr_00805,API & Integrations,medium,in_progress,2025-09-10T22:14:04Z,
+tkt_0603,org_0074,usr_00252,Billing & Payments,high,resolved,2025-09-12T04:47:38Z,2025-09-12T22:36:38Z
+tkt_0604,org_0047,usr_00941,Technical Bug,low,closed,2025-09-12T07:11:48Z,2025-09-14T14:46:48Z
+tkt_0605,org_0018,usr_01690,Account & Access,medium,open,2025-09-12T09:56:52Z,
+tkt_0606,org_0120,usr_00120,Account & Access,low,closed,2025-09-13T03:53:55Z,2025-09-14T05:25:55Z
+tkt_0607,org_0021,usr_01535,Account & Access,high,closed,2025-09-13T17:06:25Z,2025-09-14T06:53:25Z
+tkt_0608,org_0122,usr_01353,Billing & Payments,low,resolved,2025-09-13T23:08:07Z,2025-09-15T08:36:07Z
+tkt_0609,org_0025,usr_00993,API & Integrations,medium,resolved,2025-09-14T03:35:47Z,2025-09-15T08:48:47Z
+tkt_0610,org_0095,usr_01031,Account & Access,medium,closed,2025-09-14T07:43:38Z,2025-09-15T03:37:38Z
+tkt_0611,org_0059,usr_01912,Feature Request,high,resolved,2025-09-14T09:01:48Z,2025-09-14T11:19:48Z
+tkt_0612,org_0113,usr_01228,Account & Access,urgent,resolved,2025-09-14T14:24:45Z,2025-09-14T19:44:45Z
+tkt_0613,org_0008,usr_01702,API & Integrations,low,closed,2025-09-14T18:21:22Z,2025-09-16T15:15:22Z
+tkt_0614,org_0067,usr_01128,Billing & Payments,high,open,2025-09-15T05:36:06Z,
+tkt_0615,org_0095,usr_00270,Technical Bug,urgent,resolved,2025-09-15T09:59:03Z,2025-09-15T15:47:03Z
+tkt_0616,org_0021,usr_00217,API & Integrations,urgent,resolved,2025-09-16T11:42:29Z,2025-09-16T15:56:29Z
+tkt_0617,org_0085,usr_00907,Billing & Payments,high,resolved,2025-09-16T12:38:37Z,2025-09-16T21:21:37Z
+tkt_0618,org_0125,usr_00640,Billing & Payments,high,resolved,2025-09-16T15:57:08Z,2025-09-17T12:30:08Z
+tkt_0619,org_0133,usr_01416,Technical Bug,medium,resolved,2025-09-16T17:44:22Z,2025-09-17T09:43:22Z
+tkt_0620,org_0161,usr_00974,Technical Bug,medium,resolved,2025-09-17T05:56:50Z,2025-09-18T23:00:50Z
+tkt_0621,org_0093,usr_01317,Billing & Payments,high,closed,2025-09-17T08:05:20Z,2025-09-18T03:17:20Z
+tkt_0622,org_0013,usr_00897,Feature Request,medium,resolved,2025-09-17T11:07:42Z,2025-09-18T13:24:42Z
+tkt_0623,org_0095,usr_01543,Technical Bug,medium,closed,2025-09-17T12:43:28Z,2025-09-18T11:05:28Z
+tkt_0624,org_0154,usr_00237,Account & Access,high,open,2025-09-17T13:11:43Z,
+tkt_0625,org_0094,usr_01019,Feature Request,low,resolved,2025-09-17T14:56:56Z,2025-09-20T04:31:56Z
+tkt_0626,org_0051,usr_01799,Billing & Payments,high,resolved,2025-09-17T15:15:45Z,2025-09-17T22:41:45Z
+tkt_0627,org_0128,usr_01759,Account & Access,low,resolved,2025-09-17T17:34:07Z,2025-09-19T10:49:07Z
+tkt_0628,org_0056,usr_00481,Feature Request,urgent,closed,2025-09-18T13:39:11Z,2025-09-18T14:36:11Z
+tkt_0629,org_0018,usr_01418,Account & Access,low,resolved,2025-09-18T13:43:27Z,2025-09-21T08:34:27Z
+tkt_0630,org_0027,usr_00755,Technical Bug,medium,resolved,2025-09-18T15:38:09Z,2025-09-20T04:05:09Z
+tkt_0631,org_0131,usr_00309,API & Integrations,high,resolved,2025-09-19T08:29:18Z,2025-09-19T17:57:18Z
+tkt_0632,org_0176,usr_00372,Feature Request,high,resolved,2025-09-19T13:44:13Z,2025-09-20T00:42:13Z
+tkt_0633,org_0047,usr_00880,API & Integrations,medium,resolved,2025-09-19T20:15:23Z,2025-09-21T03:32:23Z
+tkt_0634,org_0037,usr_00394,Billing & Payments,medium,in_progress,2025-09-20T13:41:53Z,
+tkt_0635,org_0047,usr_00941,Billing & Payments,high,open,2025-09-20T15:56:38Z,
+tkt_0636,org_0113,usr_01315,API & Integrations,low,closed,2025-09-21T06:48:13Z,2025-09-23T22:42:13Z
+tkt_0637,org_0050,usr_01394,Billing & Payments,urgent,resolved,2025-09-21T12:56:09Z,2025-09-21T19:40:09Z
+tkt_0638,org_0006,usr_01428,API & Integrations,high,resolved,2025-09-21T15:11:47Z,2025-09-22T12:15:47Z
+tkt_0639,org_0047,usr_00267,Feature Request,low,closed,2025-09-22T03:23:58Z,2025-09-24T23:41:58Z
+tkt_0640,org_0073,usr_01086,Billing & Payments,low,resolved,2025-09-22T05:28:30Z,2025-09-24T19:33:30Z
+tkt_0641,org_0130,usr_01369,Technical Bug,low,closed,2025-09-22T05:55:09Z,2025-09-22T22:14:09Z
+tkt_0642,org_0043,usr_01400,Technical Bug,high,resolved,2025-09-22T23:27:01Z,2025-09-23T15:42:01Z
+tkt_0643,org_0107,usr_00920,API & Integrations,medium,closed,2025-09-22T23:57:00Z,2025-09-23T07:55:00Z
+tkt_0644,org_0151,usr_01847,Account & Access,low,in_progress,2025-09-23T04:34:10Z,
+tkt_0645,org_0133,usr_01323,Technical Bug,urgent,resolved,2025-09-24T01:55:36Z,2025-09-24T06:43:36Z
+tkt_0646,org_0030,usr_01202,Technical Bug,urgent,in_progress,2025-09-25T13:17:42Z,
+tkt_0647,org_0164,usr_01845,Account & Access,high,resolved,2025-09-25T16:50:37Z,2025-09-26T04:08:37Z
+tkt_0648,org_0118,usr_00809,Billing & Payments,medium,closed,2025-09-25T20:59:00Z,2025-09-26T08:29:00Z
+tkt_0649,org_0006,usr_00583,Feature Request,medium,resolved,2025-09-26T06:40:00Z,2025-09-28T00:12:00Z
+tkt_0650,org_0134,usr_01403,Feature Request,medium,open,2025-09-26T20:38:59Z,
+tkt_0651,org_0105,usr_01236,API & Integrations,low,open,2025-09-26T21:39:55Z,
+tkt_0652,org_0177,usr_00659,Account & Access,low,resolved,2025-09-27T01:21:49Z,2025-09-29T19:22:49Z
+tkt_0653,org_0021,usr_00678,Feature Request,high,closed,2025-09-27T05:05:46Z,2025-09-27T12:31:46Z
+tkt_0654,org_0038,usr_01230,Account & Access,low,resolved,2025-09-27T16:00:07Z,2025-09-28T23:33:07Z
+tkt_0655,org_0083,usr_01889,API & Integrations,low,closed,2025-09-27T17:10:30Z,2025-09-30T15:21:30Z
+tkt_0656,org_0017,usr_00259,Account & Access,high,closed,2025-09-27T20:44:46Z,2025-09-28T03:34:46Z
+tkt_0657,org_0111,usr_01825,Technical Bug,low,resolved,2025-09-28T19:59:08Z,2025-09-30T20:36:08Z
+tkt_0658,org_0041,usr_01220,API & Integrations,low,resolved,2025-09-29T11:45:29Z,2025-09-30T17:46:29Z
+tkt_0659,org_0083,usr_01691,Feature Request,high,resolved,2025-09-29T18:18:59Z,2025-09-30T03:06:59Z
+tkt_0660,org_0095,usr_01543,Billing & Payments,medium,resolved,2025-09-30T17:48:14Z,2025-10-02T07:02:14Z
+tkt_0661,org_0028,usr_00331,Billing & Payments,medium,closed,2025-09-30T20:37:55Z,2025-10-01T12:09:55Z
+tkt_0662,org_0102,usr_01511,Account & Access,medium,resolved,2025-10-01T19:42:51Z,2025-10-03T15:04:51Z
+tkt_0663,org_0118,usr_00603,Billing & Payments,medium,resolved,2025-10-02T07:37:50Z,2025-10-03T18:31:50Z
+tkt_0664,org_0022,usr_01479,Technical Bug,high,closed,2025-10-03T01:09:16Z,2025-10-03T10:57:16Z
+tkt_0665,org_0186,usr_00882,Technical Bug,low,resolved,2025-10-03T04:47:00Z,2025-10-05T10:26:00Z
+tkt_0666,org_0170,usr_00664,Feature Request,low,resolved,2025-10-03T08:00:03Z,2025-10-05T07:19:03Z
+tkt_0667,org_0148,usr_01213,Technical Bug,medium,resolved,2025-10-03T12:52:08Z,2025-10-04T06:08:08Z
+tkt_0668,org_0197,usr_01190,Billing & Payments,medium,resolved,2025-10-03T12:57:49Z,2025-10-04T09:53:49Z
+tkt_0669,org_0133,usr_01416,Billing & Payments,urgent,in_progress,2025-10-03T13:22:53Z,
+tkt_0670,org_0122,usr_00597,Account & Access,high,resolved,2025-10-03T14:20:05Z,2025-10-03T22:55:05Z
+tkt_0671,org_0197,usr_01190,Account & Access,medium,resolved,2025-10-04T02:53:48Z,2025-10-05T07:46:48Z
+tkt_0672,org_0154,usr_01677,Billing & Payments,low,open,2025-10-04T07:52:11Z,
+tkt_0673,org_0102,usr_00493,Technical Bug,high,resolved,2025-10-04T10:01:52Z,2025-10-05T07:53:52Z
+tkt_0674,org_0096,usr_01440,Technical Bug,medium,resolved,2025-10-04T13:57:20Z,2025-10-05T10:48:20Z
+tkt_0675,org_0063,usr_00063,Account & Access,low,resolved,2025-10-04T18:37:48Z,2025-10-06T20:56:48Z
+tkt_0676,org_0001,usr_00949,API & Integrations,medium,in_progress,2025-10-04T23:10:32Z,
+tkt_0677,org_0198,usr_01648,Feature Request,high,open,2025-10-05T08:30:18Z,
+tkt_0678,org_0029,usr_00377,API & Integrations,medium,closed,2025-10-05T09:55:16Z,2025-10-07T06:21:16Z
+tkt_0679,org_0122,usr_01132,API & Integrations,high,resolved,2025-10-05T11:47:18Z,2025-10-05T21:37:18Z
+tkt_0680,org_0152,usr_01334,Technical Bug,medium,closed,2025-10-05T15:44:15Z,2025-10-07T04:07:15Z
+tkt_0681,org_0012,usr_00983,Technical Bug,low,closed,2025-10-05T17:15:28Z,2025-10-08T09:55:28Z
+tkt_0682,org_0179,usr_01704,Account & Access,medium,closed,2025-10-05T22:32:12Z,2025-10-07T12:47:12Z
+tkt_0683,org_0192,usr_00619,Feature Request,medium,resolved,2025-10-05T22:40:11Z,2025-10-06T05:18:11Z
+tkt_0684,org_0005,usr_01288,API & Integrations,medium,resolved,2025-10-06T10:18:36Z,2025-10-08T00:31:36Z
+tkt_0685,org_0098,usr_00852,Technical Bug,low,resolved,2025-10-06T11:40:13Z,2025-10-08T23:38:13Z
+tkt_0686,org_0021,usr_00678,Account & Access,high,resolved,2025-10-06T17:57:12Z,2025-10-07T17:26:12Z
+tkt_0687,org_0120,usr_00365,Account & Access,low,in_progress,2025-10-07T06:03:16Z,
+tkt_0688,org_0148,usr_01213,Feature Request,medium,resolved,2025-10-07T10:00:57Z,2025-10-07T21:25:57Z
+tkt_0689,org_0162,usr_00991,Account & Access,low,resolved,2025-10-07T17:47:34Z,2025-10-10T02:24:34Z
+tkt_0690,org_0173,usr_00381,Billing & Payments,medium,open,2025-10-07T19:49:27Z,
+tkt_0691,org_0146,usr_00818,Feature Request,medium,closed,2025-10-07T23:02:09Z,2025-10-08T22:59:09Z
+tkt_0692,org_0008,usr_01888,Account & Access,low,in_progress,2025-10-08T01:12:01Z,
+tkt_0693,org_0147,usr_00527,Billing & Payments,high,resolved,2025-10-08T06:20:46Z,2025-10-09T00:44:46Z
+tkt_0694,org_0039,usr_00894,Account & Access,low,resolved,2025-10-08T12:48:08Z,2025-10-10T05:07:08Z
+tkt_0695,org_0132,usr_00328,Technical Bug,urgent,open,2025-10-08T13:46:38Z,
+tkt_0696,org_0157,usr_01666,Technical Bug,medium,closed,2025-10-08T14:44:32Z,2025-10-09T05:21:32Z
+tkt_0697,org_0016,usr_00485,Feature Request,medium,closed,2025-10-08T18:20:54Z,2025-10-09T12:02:54Z
+tkt_0698,org_0057,usr_01843,Account & Access,high,resolved,2025-10-08T18:42:17Z,2025-10-09T02:41:17Z
+tkt_0699,org_0199,usr_01719,Technical Bug,medium,resolved,2025-10-08T21:31:29Z,2025-10-09T07:54:29Z
+tkt_0700,org_0122,usr_01132,Account & Access,medium,resolved,2025-10-09T02:15:13Z,2025-10-09T16:16:13Z
+tkt_0701,org_0096,usr_01440,Billing & Payments,urgent,resolved,2025-10-09T03:39:41Z,2025-10-09T04:19:41Z
+tkt_0702,org_0047,usr_01964,API & Integrations,low,in_progress,2025-10-09T17:04:02Z,
+tkt_0703,org_0118,usr_00243,Billing & Payments,high,in_progress,2025-10-10T04:09:01Z,
+tkt_0704,org_0115,usr_00115,API & Integrations,low,resolved,2025-10-10T05:45:00Z,2025-10-12T10:07:00Z
+tkt_0705,org_0085,usr_00907,API & Integrations,medium,closed,2025-10-10T10:50:48Z,2025-10-10T21:03:48Z
+tkt_0706,org_0193,usr_00975,Technical Bug,high,resolved,2025-10-10T11:50:00Z,2025-10-10T18:08:00Z
+tkt_0707,org_0076,usr_00633,API & Integrations,medium,resolved,2025-10-10T12:43:41Z,2025-10-11T12:13:41Z
+tkt_0708,org_0002,usr_00690,API & Integrations,medium,resolved,2025-10-10T18:54:01Z,2025-10-11T09:32:01Z
+tkt_0709,org_0120,usr_01881,Feature Request,medium,resolved,2025-10-11T00:18:29Z,2025-10-12T10:14:29Z
+tkt_0710,org_0168,usr_01293,Account & Access,medium,in_progress,2025-10-11T00:48:17Z,
+tkt_0711,org_0070,usr_01741,Feature Request,low,open,2025-10-11T01:51:12Z,
+tkt_0712,org_0099,usr_01409,API & Integrations,low,closed,2025-10-11T10:23:13Z,2025-10-14T10:15:13Z
+tkt_0713,org_0141,usr_00908,API & Integrations,high,closed,2025-10-11T11:03:26Z,2025-10-12T01:05:26Z
+tkt_0714,org_0095,usr_01031,Feature Request,medium,resolved,2025-10-11T17:42:30Z,2025-10-13T00:57:30Z
+tkt_0715,org_0061,usr_01337,Account & Access,high,open,2025-10-12T00:24:08Z,
+tkt_0716,org_0007,usr_00724,API & Integrations,high,closed,2025-10-12T09:11:39Z,2025-10-13T04:46:39Z
+tkt_0717,org_0041,usr_00327,Feature Request,urgent,resolved,2025-10-12T15:46:07Z,2025-10-12T18:35:07Z
+tkt_0718,org_0192,usr_00619,Technical Bug,high,closed,2025-10-14T04:19:21Z,2025-10-14T12:06:21Z
+tkt_0719,org_0159,usr_00475,Account & Access,high,resolved,2025-10-14T05:08:25Z,2025-10-14T10:00:25Z
+tkt_0720,org_0174,usr_01614,Account & Access,high,in_progress,2025-10-14T07:38:54Z,
+tkt_0721,org_0080,usr_01333,API & Integrations,medium,resolved,2025-10-14T10:38:44Z,2025-10-14T17:44:44Z
+tkt_0722,org_0129,usr_01633,Technical Bug,high,in_progress,2025-10-14T15:06:59Z,
+tkt_0723,org_0049,usr_01447,Feature Request,low,closed,2025-10-14T16:37:41Z,2025-10-15T18:34:41Z
+tkt_0724,org_0097,usr_00796,Technical Bug,high,resolved,2025-10-14T20:26:49Z,2025-10-15T12:14:49Z
+tkt_0725,org_0161,usr_00970,Account & Access,medium,resolved,2025-10-15T11:52:18Z,2025-10-16T00:21:18Z
+tkt_0726,org_0096,usr_00222,Billing & Payments,urgent,resolved,2025-10-15T13:32:47Z,2025-10-15T21:18:47Z
+tkt_0727,org_0132,usr_01109,Billing & Payments,medium,open,2025-10-15T16:08:45Z,
+tkt_0728,org_0047,usr_01586,Technical Bug,medium,resolved,2025-10-15T17:30:32Z,2025-10-17T10:22:32Z
+tkt_0729,org_0073,usr_01086,API & Integrations,low,resolved,2025-10-15T19:28:37Z,2025-10-17T13:40:37Z
+tkt_0730,org_0024,usr_00592,Account & Access,high,resolved,2025-10-15T19:39:03Z,2025-10-16T08:24:03Z
+tkt_0731,org_0103,usr_01659,Billing & Payments,high,resolved,2025-10-15T22:14:50Z,2025-10-16T14:39:50Z
+tkt_0732,org_0106,usr_01097,Account & Access,medium,resolved,2025-10-15T23:23:38Z,2025-10-16T15:37:38Z
+tkt_0733,org_0095,usr_01543,Feature Request,medium,resolved,2025-10-16T02:53:59Z,2025-10-17T10:13:59Z
+tkt_0734,org_0005,usr_00514,API & Integrations,urgent,resolved,2025-10-16T05:28:28Z,2025-10-16T07:44:28Z
+tkt_0735,org_0129,usr_01391,Account & Access,low,open,2025-10-16T06:51:19Z,
+tkt_0736,org_0162,usr_00991,Feature Request,urgent,resolved,2025-10-16T10:46:13Z,2025-10-16T13:50:13Z
+tkt_0737,org_0131,usr_01948,Account & Access,low,resolved,2025-10-17T02:25:09Z,2025-10-18T16:12:09Z
+tkt_0738,org_0042,usr_00584,Account & Access,high,closed,2025-10-17T09:55:07Z,2025-10-18T03:03:07Z
+tkt_0739,org_0091,usr_00973,Account & Access,high,resolved,2025-10-17T11:03:21Z,2025-10-18T01:49:21Z
+tkt_0740,org_0117,usr_00219,Technical Bug,medium,resolved,2025-10-17T12:27:53Z,2025-10-18T07:05:53Z
+tkt_0741,org_0127,usr_01805,Technical Bug,medium,closed,2025-10-17T12:28:02Z,2025-10-19T10:10:02Z
+tkt_0742,org_0158,usr_00158,Account & Access,medium,resolved,2025-10-17T20:09:16Z,2025-10-18T19:16:16Z
+tkt_0743,org_0053,usr_01462,Account & Access,high,closed,2025-10-17T20:58:59Z,2025-10-18T05:07:59Z
+tkt_0744,org_0156,usr_01932,Billing & Payments,high,open,2025-10-18T01:36:00Z,
+tkt_0745,org_0118,usr_00603,Technical Bug,medium,open,2025-10-18T01:42:37Z,
+tkt_0746,org_0045,usr_00212,Billing & Payments,medium,resolved,2025-10-18T01:47:05Z,2025-10-19T20:24:05Z
+tkt_0747,org_0080,usr_01333,Feature Request,medium,resolved,2025-10-18T18:09:49Z,2025-10-20T15:49:49Z
+tkt_0748,org_0023,usr_00901,Billing & Payments,low,resolved,2025-10-18T22:11:36Z,2025-10-21T15:19:36Z
+tkt_0749,org_0076,usr_01548,Feature Request,low,closed,2025-10-19T22:02:14Z,2025-10-20T23:49:14Z
+tkt_0750,org_0123,usr_00446,API & Integrations,high,closed,2025-10-20T01:04:11Z,2025-10-20T13:28:11Z
+tkt_0751,org_0133,usr_01416,Billing & Payments,high,closed,2025-10-20T01:53:27Z,2025-10-21T00:20:27Z
+tkt_0752,org_0108,usr_01751,Technical Bug,urgent,resolved,2025-10-20T11:53:00Z,2025-10-20T19:00:00Z
+tkt_0753,org_0048,usr_01413,Technical Bug,medium,closed,2025-10-21T05:57:33Z,2025-10-22T22:08:33Z
+tkt_0754,org_0090,usr_01569,Technical Bug,medium,resolved,2025-10-21T13:07:05Z,2025-10-22T14:21:05Z
+tkt_0755,org_0002,usr_00690,API & Integrations,medium,resolved,2025-10-22T02:18:37Z,2025-10-23T18:07:37Z
+tkt_0756,org_0155,usr_01598,Billing & Payments,low,resolved,2025-10-22T08:03:25Z,2025-10-24T20:47:25Z
+tkt_0757,org_0048,usr_01823,API & Integrations,low,in_progress,2025-10-22T23:44:14Z,
+tkt_0758,org_0043,usr_01206,Technical Bug,medium,resolved,2025-10-23T03:14:40Z,2025-10-24T03:33:40Z
+tkt_0759,org_0073,usr_01426,Technical Bug,medium,closed,2025-10-23T03:23:45Z,2025-10-24T13:03:45Z
+tkt_0760,org_0036,usr_00686,API & Integrations,low,resolved,2025-10-23T03:44:52Z,2025-10-25T02:06:52Z
+tkt_0761,org_0102,usr_01450,Account & Access,high,resolved,2025-10-23T05:20:19Z,2025-10-23T22:14:19Z
+tkt_0762,org_0023,usr_00976,Technical Bug,medium,in_progress,2025-10-23T06:01:19Z,
+tkt_0763,org_0149,usr_01027,Technical Bug,urgent,closed,2025-10-23T07:26:40Z,2025-10-23T11:07:40Z
+tkt_0764,org_0080,usr_01333,API & Integrations,medium,closed,2025-10-23T08:57:04Z,2025-10-23T17:55:04Z
+tkt_0765,org_0140,usr_00140,API & Integrations,medium,in_progress,2025-10-23T21:56:02Z,
+tkt_0766,org_0161,usr_01900,Account & Access,high,closed,2025-10-24T00:08:19Z,2025-10-24T19:17:19Z
+tkt_0767,org_0011,usr_00298,API & Integrations,low,resolved,2025-10-24T12:31:25Z,2025-10-25T01:04:25Z
+tkt_0768,org_0159,usr_01471,Billing & Payments,medium,in_progress,2025-10-24T22:23:23Z,
+tkt_0769,org_0066,usr_01946,Feature Request,medium,resolved,2025-10-25T01:33:39Z,2025-10-26T04:38:39Z
+tkt_0770,org_0198,usr_01226,API & Integrations,medium,in_progress,2025-10-25T02:57:04Z,
+tkt_0771,org_0097,usr_00385,Billing & Payments,high,resolved,2025-10-25T04:18:58Z,2025-10-25T08:31:58Z
+tkt_0772,org_0191,usr_01227,Feature Request,medium,resolved,2025-10-25T10:49:53Z,2025-10-26T22:58:53Z
+tkt_0773,org_0132,usr_01175,Account & Access,high,closed,2025-10-26T01:27:38Z,2025-10-26T16:30:38Z
+tkt_0774,org_0073,usr_01125,Account & Access,low,resolved,2025-10-26T05:33:55Z,2025-10-27T14:39:55Z
+tkt_0775,org_0067,usr_00671,Account & Access,high,closed,2025-10-26T12:34:14Z,2025-10-27T01:13:14Z
+tkt_0776,org_0059,usr_00388,Account & Access,high,resolved,2025-10-26T13:22:47Z,2025-10-27T00:41:47Z
+tkt_0777,org_0013,usr_00326,Technical Bug,medium,resolved,2025-10-27T10:47:47Z,2025-10-28T17:29:47Z
+tkt_0778,org_0173,usr_01989,Feature Request,urgent,closed,2025-10-27T20:35:24Z,2025-10-28T01:41:24Z
+tkt_0779,org_0069,usr_01273,Billing & Payments,low,closed,2025-10-27T22:40:05Z,2025-10-28T16:24:05Z
+tkt_0780,org_0009,usr_00482,Feature Request,high,open,2025-10-28T05:48:35Z,
+tkt_0781,org_0096,usr_00571,API & Integrations,medium,in_progress,2025-10-28T07:40:56Z,
+tkt_0782,org_0096,usr_00859,Technical Bug,high,open,2025-10-28T09:50:16Z,
+tkt_0783,org_0129,usr_01391,Feature Request,low,closed,2025-10-28T15:47:26Z,2025-10-29T21:14:26Z
+tkt_0784,org_0070,usr_01811,Technical Bug,high,resolved,2025-10-29T04:49:43Z,2025-10-30T03:00:43Z
+tkt_0785,org_0140,usr_00140,Feature Request,low,closed,2025-10-29T04:56:22Z,2025-10-31T12:55:22Z
+tkt_0786,org_0036,usr_00686,Technical Bug,low,closed,2025-10-29T14:36:04Z,2025-10-31T12:03:04Z
+tkt_0787,org_0115,usr_00921,Account & Access,low,resolved,2025-10-29T15:32:11Z,2025-10-30T15:08:11Z
+tkt_0788,org_0162,usr_00991,Billing & Payments,medium,in_progress,2025-10-29T17:22:07Z,
+tkt_0789,org_0190,usr_00774,Technical Bug,high,resolved,2025-10-30T00:01:04Z,2025-10-30T22:23:04Z
+tkt_0790,org_0043,usr_00646,API & Integrations,medium,resolved,2025-10-30T01:48:30Z,2025-10-30T09:01:30Z
+tkt_0791,org_0175,usr_00617,Feature Request,medium,resolved,2025-10-30T10:07:54Z,2025-11-01T00:00:00Z
+tkt_0792,org_0118,usr_01879,Feature Request,low,resolved,2025-10-30T16:36:57Z,2025-10-31T17:51:57Z
+tkt_0793,org_0197,usr_01190,API & Integrations,medium,in_progress,2025-10-31T02:51:50Z,
+tkt_0794,org_0191,usr_00191,Technical Bug,high,resolved,2025-10-31T05:49:25Z,2025-10-31T13:49:25Z
+tkt_0795,org_0160,usr_00281,Feature Request,medium,resolved,2025-10-31T09:31:41Z,2025-11-01T00:00:00Z
+tkt_0796,org_0033,usr_00600,API & Integrations,low,resolved,2025-10-31T15:27:44Z,2025-11-01T00:00:00Z
+tkt_0797,org_0173,usr_01249,Billing & Payments,medium,in_progress,2025-10-31T17:19:19Z,
+tkt_0798,org_0136,usr_01038,Feature Request,high,resolved,2025-10-31T19:18:26Z,2025-11-01T00:00:00Z
+tkt_0799,org_0162,usr_00162,API & Integrations,medium,closed,2025-10-31T19:35:43Z,2025-11-01T00:00:00Z
+tkt_0800,org_0010,usr_00529,Account & Access,medium,in_progress,2025-10-31T23:29:50Z,

@@ -1,0 +1,201 @@
+organization_id,organization_name,industry,country_code,created_at
+org_0001,Bright Engine,Healthcare,US,2023-08-02T14:55:05Z
+org_0002,Synergy Forge,Developer Tools,GB,2023-03-21T14:38:54Z
+org_0003,Cloud Flareway,Human Resources,US,2024-04-03T15:34:41Z
+org_0004,Prism Data,Fintech,US,2023-03-14T18:36:21Z
+org_0005,Nexus Logic,Developer Tools,IN,2024-04-12T14:26:33Z
+org_0006,Acme Analytics,Human Resources,DE,2024-05-19T18:43:26Z
+org_0007,Flux Platform,Human Resources,AU,2023-06-21T05:18:39Z
+org_0008,Kinetic Sync,Data Analytics,CA,2023-01-06T01:08:44Z
+org_0009,Crest Works,Edtech,SE,2023-11-25T06:06:12Z
+org_0010,Apex Hub,Marketing,GB,2023-06-17T05:44:21Z
+org_0011,Crest Works,Cybersecurity,US,2023-03-14T00:54:28Z
+org_0012,Horizon Media,Healthcare,FR,2023-09-25T03:47:57Z
+org_0013,Delta Logic,Marketing,US,2023-12-23T20:18:01Z
+org_0014,Summit AI,Healthcare,AU,2023-03-03T04:56:31Z
+org_0015,Summit AI,Marketing,IE,2024-04-25T10:02:37Z
+org_0016,Vortex Digital,Data Analytics,DE,2023-02-24T00:36:07Z
+org_0017,Pulse Metrics,Developer Tools,CA,2023-03-03T23:25:48Z
+org_0018,Synergy Forge,Healthcare,AU,2023-08-04T21:48:12Z
+org_0019,Kinetic Sync,Cybersecurity,GB,2023-10-15T12:40:24Z
+org_0020,Vortex Digital,Developer Tools,IE,2023-07-27T08:49:38Z
+org_0021,Flux Platform,Healthcare,SG,2024-05-08T04:51:11Z
+org_0022,Quantum Dynamics,Human Resources,SE,2023-07-10T03:36:23Z
+org_0023,Quantum Dynamics,Logistics,AU,2023-07-29T16:11:31Z
+org_0024,Bright Engine,Human Resources,DE,2024-06-15T18:08:04Z
+org_0025,Apex Hub,Fintech,DE,2023-01-25T22:23:30Z
+org_0026,Apex Hub 26,E-Commerce,CA,2023-02-21T09:50:42Z
+org_0027,Nexus Logic 27,Data Analytics,SE,2023-09-02T10:01:15Z
+org_0028,Nexus Logic 28,Logistics,AU,2024-05-14T07:37:38Z
+org_0029,Kinetic Sync 29,Edtech,CA,2023-04-19T10:53:52Z
+org_0030,Synergy Forge 30,Human Resources,IN,2023-07-24T01:51:30Z
+org_0031,Beacon Software 31,Data Analytics,AU,2024-03-29T05:50:31Z
+org_0032,Horizon Media 32,Cybersecurity,DE,2023-04-18T10:41:26Z
+org_0033,Zenith Technologies 33,Logistics,US,2023-02-06T14:18:46Z
+org_0034,Hyper Solutions 34,Edtech,IE,2023-05-05T06:16:50Z
+org_0035,Cloud Flareway 35,E-Commerce,SG,2023-02-19T08:14:32Z
+org_0036,Horizon Media 36,E-Commerce,SG,2023-12-30T13:04:56Z
+org_0037,Zenith Technologies 37,Marketing,IN,2023-01-09T22:01:18Z
+org_0038,Cloud Flareway 38,Healthcare,IE,2024-02-22T01:51:08Z
+org_0039,Crest Works 39,Marketing,IE,2023-09-22T05:19:49Z
+org_0040,Hyper Solutions 40,Marketing,AU,2023-05-03T20:16:27Z
+org_0041,Kinetic Sync 41,Fintech,SE,2023-07-24T13:55:39Z
+org_0042,Zenith Technologies 42,Edtech,IN,2023-03-24T15:38:29Z
+org_0043,Bright Engine 43,Marketing,IE,2024-01-30T07:31:19Z
+org_0044,Delta Logic 44,Developer Tools,GB,2023-10-18T10:15:33Z
+org_0045,Crest Works 45,Edtech,IN,2024-02-16T22:30:32Z
+org_0046,Acme Analytics 46,Data Analytics,FR,2024-01-15T12:16:14Z
+org_0047,Acme Analytics 47,Healthcare,FR,2023-08-27T20:28:43Z
+org_0048,Synergy Forge 48,Fintech,DE,2024-03-16T16:17:59Z
+org_0049,Stratum Cloud 49,Healthcare,SE,2024-01-13T11:31:07Z
+org_0050,Stratum Cloud 50,Human Resources,GB,2023-04-10T17:23:25Z
+org_0051,Cloud Flareway 51,Logistics,IN,2023-05-09T06:11:22Z
+org_0052,Acro Stack 52,Human Resources,SG,2023-11-25T15:51:46Z
+org_0053,Nexus Logic 53,Human Resources,SE,2024-06-19T20:03:53Z
+org_0054,Nexus Logic 54,Marketing,AU,2024-06-05T17:09:08Z
+org_0055,Bright Engine 55,Cybersecurity,NL,2024-02-07T00:18:46Z
+org_0056,Kinetic Sync 56,Healthcare,DE,2023-06-24T12:39:43Z
+org_0057,Stratum Cloud 57,Cybersecurity,US,2024-04-01T22:52:09Z
+org_0058,Summit AI 58,Developer Tools,SG,2023-06-21T01:08:58Z
+org_0059,Acme Analytics 59,Healthcare,SE,2024-05-05T04:36:42Z
+org_0060,Pulse Metrics 60,Developer Tools,US,2023-01-25T09:34:47Z
+org_0061,Apex Hub 61,Healthcare,IN,2023-07-04T20:43:40Z
+org_0062,Acro Stack 62,Logistics,DE,2024-02-23T20:02:56Z
+org_0063,Omni Systems 63,Data Analytics,SG,2024-01-03T03:13:35Z
+org_0064,Synergy Forge 64,Logistics,AU,2023-05-28T21:29:53Z
+org_0065,Hyper Solutions 65,Healthcare,IE,2023-12-01T19:22:35Z
+org_0066,Vortex Digital 66,E-Commerce,AU,2023-12-29T17:58:14Z
+org_0067,Beacon Software 67,Fintech,IE,2024-05-22T13:17:35Z
+org_0068,Bright Engine 68,Healthcare,US,2023-11-09T17:24:16Z
+org_0069,Beacon Software 69,Cybersecurity,US,2023-07-13T03:17:24Z
+org_0070,Nexus Logic 70,Developer Tools,IN,2023-12-15T10:45:45Z
+org_0071,Omni Systems 71,E-Commerce,GB,2023-08-05T08:27:28Z
+org_0072,Kinetic Sync 72,Developer Tools,US,2023-12-11T04:33:20Z
+org_0073,Summit AI 73,Healthcare,US,2024-05-21T12:51:42Z
+org_0074,Summit AI 74,Fintech,US,2023-07-03T14:25:59Z
+org_0075,Quantum Dynamics 75,E-Commerce,NL,2024-01-09T21:10:16Z
+org_0076,Nexus Logic 76,E-Commerce,US,2023-05-08T21:03:30Z
+org_0077,Horizon Media 77,Fintech,AU,2023-07-25T23:44:35Z
+org_0078,Kinetic Sync 78,Marketing,AU,2024-06-25T01:24:24Z
+org_0079,Beacon Software 79,Human Resources,IE,2024-01-14T00:12:45Z
+org_0080,Omni Systems 80,Developer Tools,CA,2023-06-19T02:14:19Z
+org_0081,Pulse Metrics 81,Data Analytics,SE,2024-02-26T03:15:04Z
+org_0082,Pulse Metrics 82,Cybersecurity,US,2023-02-08T22:43:15Z
+org_0083,True Automation 83,Logistics,IN,2024-02-17T12:54:31Z
+org_0084,Quantum Dynamics 84,Fintech,IN,2023-03-04T05:23:09Z
+org_0085,Quantum Dynamics 85,Healthcare,SG,2023-02-22T18:52:56Z
+org_0086,Cloud Flareway 86,Developer Tools,AU,2023-04-04T02:50:54Z
+org_0087,True Automation 87,Developer Tools,SG,2024-04-06T18:38:25Z
+org_0088,Pulse Metrics 88,Data Analytics,US,2023-11-22T14:55:07Z
+org_0089,Cloud Flareway 89,Data Analytics,SG,2024-02-11T01:22:34Z
+org_0090,Apex Hub 90,Marketing,DE,2024-06-04T04:35:49Z
+org_0091,Flux Platform 91,Cybersecurity,DE,2023-07-26T07:24:48Z
+org_0092,Horizon Media 92,Edtech,IE,2024-05-16T09:00:24Z
+org_0093,Cipher Labs 93,Logistics,FR,2023-02-26T08:18:06Z
+org_0094,Acme Analytics 94,Logistics,SG,2024-03-13T06:57:43Z
+org_0095,Hyper Solutions 95,Healthcare,IN,2023-06-15T13:29:03Z
+org_0096,Zenith Technologies 96,Marketing,GB,2023-09-29T01:59:46Z
+org_0097,Stratum Cloud 97,Developer Tools,FR,2023-08-10T08:33:00Z
+org_0098,Quantum Dynamics 98,Logistics,IN,2023-08-23T23:19:41Z
+org_0099,Delta Logic 99,Human Resources,US,2024-06-02T17:52:20Z
+org_0100,Summit AI 100,Marketing,IE,2023-03-22T10:59:32Z
+org_0101,Omni Systems 101,Marketing,US,2023-03-25T03:17:42Z
+org_0102,Beacon Software 102,Human Resources,GB,2023-07-31T12:56:19Z
+org_0103,Cipher Labs 103,Data Analytics,DE,2023-09-24T07:45:06Z
+org_0104,Nexus Logic 104,Marketing,IN,2024-01-15T10:53:37Z
+org_0105,Acro Stack 105,Fintech,US,2024-05-07T15:55:08Z
+org_0106,Prism Data 106,Marketing,US,2023-01-03T18:05:47Z
+org_0107,Apex Hub 107,Edtech,IE,2023-07-23T11:12:00Z
+org_0108,Quantum Dynamics 108,Logistics,IN,2023-11-29T04:39:43Z
+org_0109,Summit AI 109,Fintech,US,2023-02-28T10:38:49Z
+org_0110,Flux Platform 110,Edtech,IN,2023-01-28T23:36:47Z
+org_0111,Vortex Digital 111,Data Analytics,IN,2023-04-26T00:40:05Z
+org_0112,Prism Data 112,Edtech,US,2023-08-28T10:21:07Z
+org_0113,Vortex Digital 113,Fintech,FR,2023-06-13T04:06:37Z
+org_0114,Cloud Flareway 114,Developer Tools,IE,2023-03-21T20:12:43Z
+org_0115,Vortex Digital 115,Human Resources,AU,2024-04-27T01:58:08Z
+org_0116,Beacon Software 116,Edtech,DE,2023-05-07T05:15:08Z
+org_0117,Quantum Dynamics 117,E-Commerce,US,2023-05-20T07:31:30Z
+org_0118,Beacon Software 118,Cybersecurity,AU,2024-06-04T07:58:26Z
+org_0119,Beacon Software 119,Developer Tools,CA,2023-05-04T15:39:46Z
+org_0120,Flux Platform 120,Healthcare,AU,2023-01-31T01:52:44Z
+org_0121,Aether Core 121,Developer Tools,DE,2023-12-24T12:40:27Z
+org_0122,Vortex Digital 122,Marketing,DE,2023-06-23T03:35:46Z
+org_0123,Acme Analytics 123,Developer Tools,AU,2023-09-12T23:14:46Z
+org_0124,Acro Stack 124,Healthcare,CA,2023-09-30T17:50:17Z
+org_0125,Bright Engine 125,Human Resources,AU,2024-06-11T19:08:08Z
+org_0126,Summit AI 126,Cybersecurity,US,2023-03-31T14:07:33Z
+org_0127,Acro Stack 127,Edtech,SG,2023-07-26T04:39:06Z
+org_0128,Pulse Metrics 128,Healthcare,SG,2023-12-04T12:51:20Z
+org_0129,Vortex Digital 129,Cybersecurity,AU,2024-04-15T20:33:07Z
+org_0130,Zenith Technologies 130,Healthcare,AU,2024-03-23T20:22:48Z
+org_0131,Nexus Logic 131,Marketing,US,2023-12-05T16:42:04Z
+org_0132,Acme Analytics 132,Human Resources,IN,2024-06-17T11:56:42Z
+org_0133,Beacon Software 133,Developer Tools,FR,2023-12-01T23:57:58Z
+org_0134,Stratum Cloud 134,Cybersecurity,SG,2023-09-01T19:48:42Z
+org_0135,Cloud Flareway 135,Healthcare,SE,2023-08-22T06:24:46Z
+org_0136,Zenith Technologies 136,Marketing,IE,2023-11-14T04:59:44Z
+org_0137,Apex Hub 137,E-Commerce,SE,2023-08-18T15:24:44Z
+org_0138,Summit AI 138,Edtech,DE,2023-11-23T13:41:15Z
+org_0139,Cloud Flareway 139,E-Commerce,IE,2023-05-16T04:06:17Z
+org_0140,Delta Logic 140,Data Analytics,CA,2023-11-12T09:47:23Z
+org_0141,Summit AI 141,Fintech,CA,2023-08-11T20:27:33Z
+org_0142,Nexus Logic 142,E-Commerce,SG,2024-04-16T04:59:28Z
+org_0143,Bright Engine 143,Cybersecurity,NL,2023-12-10T03:29:17Z
+org_0144,Kinetic Sync 144,Developer Tools,IN,2024-01-03T12:49:47Z
+org_0145,Beacon Software 145,Edtech,IE,2023-03-07T20:42:12Z
+org_0146,Cipher Labs 146,Human Resources,IE,2024-05-06T14:52:21Z
+org_0147,Delta Logic 147,Cybersecurity,US,2023-07-02T10:16:04Z
+org_0148,Cloud Flareway 148,Marketing,DE,2023-06-04T16:03:03Z
+org_0149,Omni Systems 149,Fintech,US,2023-07-10T04:11:44Z
+org_0150,Aether Core 150,Data Analytics,US,2023-12-20T17:34:21Z
+org_0151,Prism Data 151,Data Analytics,DE,2024-06-24T20:59:02Z
+org_0152,Horizon Media 152,Logistics,AU,2023-07-09T12:11:58Z
+org_0153,Omni Systems 153,Fintech,US,2023-11-27T05:17:58Z
+org_0154,Synergy Forge 154,Edtech,SE,2024-02-07T07:25:56Z
+org_0155,Kinetic Sync 155,Fintech,IN,2023-07-13T13:23:33Z
+org_0156,Hyper Solutions 156,Logistics,GB,2023-12-27T21:34:39Z
+org_0157,Cloud Flareway 157,Human Resources,IN,2024-04-07T12:02:08Z
+org_0158,Apex Hub 158,Logistics,SG,2024-01-28T01:44:49Z
+org_0159,Prism Data 159,Human Resources,NL,2023-05-04T14:55:06Z
+org_0160,Beacon Software 160,Logistics,NL,2023-07-21T07:40:50Z
+org_0161,Crest Works 161,Developer Tools,IE,2023-08-04T09:27:29Z
+org_0162,Crest Works 162,Human Resources,NL,2024-05-01T19:26:15Z
+org_0163,Synergy Forge 163,Marketing,NL,2023-03-02T04:23:39Z
+org_0164,Flux Platform 164,Marketing,DE,2023-07-31T01:08:12Z
+org_0165,Apex Hub 165,Cybersecurity,IN,2023-03-04T14:04:35Z
+org_0166,Omni Systems 166,Edtech,DE,2023-10-25T12:17:43Z
+org_0167,Flux Platform 167,Edtech,SE,2023-06-16T04:22:14Z
+org_0168,Stratum Cloud 168,E-Commerce,AU,2023-09-15T00:04:34Z
+org_0169,Summit AI 169,Logistics,AU,2023-02-18T08:43:01Z
+org_0170,Nexus Logic 170,E-Commerce,AU,2024-03-29T16:01:45Z
+org_0171,Flux Platform 171,Fintech,SG,2023-10-23T10:48:58Z
+org_0172,Aether Core 172,Fintech,FR,2023-08-20T22:32:35Z
+org_0173,Crest Works 173,E-Commerce,AU,2024-02-23T01:09:30Z
+org_0174,Beacon Software 174,Human Resources,SG,2023-06-21T07:08:21Z
+org_0175,Aether Core 175,Developer Tools,CA,2023-12-05T12:34:17Z
+org_0176,Aether Core 176,Fintech,AU,2023-09-19T01:54:31Z
+org_0177,Cloud Flareway 177,E-Commerce,SE,2023-05-09T04:39:24Z
+org_0178,Kinetic Sync 178,Edtech,SG,2024-02-19T20:47:10Z
+org_0179,Acme Analytics 179,E-Commerce,SG,2024-03-14T09:01:44Z
+org_0180,Cloud Flareway 180,Fintech,US,2024-05-14T05:43:18Z
+org_0181,Prism Data 181,Edtech,NL,2023-05-22T03:40:28Z
+org_0182,Pulse Metrics 182,Marketing,AU,2023-09-12T06:17:45Z
+org_0183,Nexus Logic 183,Logistics,FR,2023-09-20T03:27:58Z
+org_0184,Crest Works 184,E-Commerce,CA,2023-11-24T10:32:16Z
+org_0185,Acro Stack 185,Healthcare,NL,2023-01-16T01:19:50Z
+org_0186,Beacon Software 186,Human Resources,US,2023-09-29T19:44:01Z
+org_0187,Synergy Forge 187,Healthcare,IE,2023-02-01T06:27:57Z
+org_0188,Crest Works 188,Fintech,DE,2023-06-04T20:21:08Z
+org_0189,Acme Analytics 189,Data Analytics,GB,2023-07-05T06:48:00Z
+org_0190,Omni Systems 190,Logistics,IE,2023-03-30T20:22:25Z
+org_0191,True Automation 191,Developer Tools,NL,2024-06-27T06:58:19Z
+org_0192,Acro Stack 192,Cybersecurity,GB,2024-04-15T14:39:30Z
+org_0193,Delta Logic 193,Healthcare,GB,2023-08-30T14:11:08Z
+org_0194,Hyper Solutions 194,Data Analytics,US,2023-08-31T07:18:16Z
+org_0195,True Automation 195,E-Commerce,AU,2023-06-04T01:08:06Z
+org_0196,Stratum Cloud 196,Data Analytics,SE,2024-05-02T04:38:44Z
+org_0197,Synergy Forge 197,Healthcare,SE,2023-08-23T05:54:31Z
+org_0198,Cloud Flareway 198,Data Analytics,US,2024-03-15T13:44:50Z
+org_0199,Pulse Metrics 199,Cybersecurity,IN,2023-11-29T17:32:41Z
+org_0200,Cloud Flareway 200,Cybersecurity,US,2024-01-28T23:47:33Z
